@@ -19,17 +19,28 @@
 	th, td { text-align: left; padding: 8px 6px; border-bottom: 1px solid #d3dae3; vertical-align: top; }
 	code { background: #eaf0f8; padding: 1px 5px; border-radius: 4px; }
 	ol { padding-left: 1.3em; }
+	.share { text-align: center; }
+	.share img { display: block; width: min(340px, 100%); height: auto; margin: 0 auto; }
+	.share .address { margin: 10px 0 2px; color: #112866; font: 700 2.1rem/1.2 Arial, Helvetica, sans-serif; overflow-wrap: anywhere; }
+	iframe { display: block; width: 100%; height: 2000px; border: 0; }
+	@media (max-width: 700px) { .share { display: none; } iframe { height: 2400px; } }
 </style>
 <header>
 	<h1>Council 8600 website prototype</h1>
 	<p>Knights of Columbus Council 8600, Fairfax Station, Virginia</p>
 </header>
 <main>
+	<section class="share">
+		<img src="qr.svg" alt="QR code that opens this page" width="340" height="340">
+		<p class="address">undu82.github.io/kofc8600-demo</p>
+		<p class="muted">Point your phone camera at the code, or type the address.</p>
+	</section>
 	<section>
 		<h2>Try the new website</h2>
 		<p>The button opens your own copy of the proposed site, running in your browser. Look around, then log in and try editing.</p>
-		<p><a class="button" href="master/">Open the demo</a><br><small>Updated 2026-10-20, Describe the demo's reset behaviour as tested</small></p>
+		<p><a class="button" href="master/">Open the demo</a><br><small>Updated 2026-10-20, Show a QR code and a feedback form on the demo's front page</small></p>
 
+		
 		<p class="muted">The first load can take up to a minute. Nobody else sees your changes, and reloading the page or opening the link again starts a fresh copy.</p>
 	</section>
 	<section>
@@ -37,6 +48,7 @@
 		<p>You start logged in as the administrator. To try another role, log out (top right of the dashboard), then log in with one of these.</p>
 		<table>
 			<tr><th>Login</th><th>Password</th><th>Can do</th></tr>
+			<tr><td><code>admin</code></td><td><code>password</code></td><td>Everything (you start as this login)</td></tr>
 			<tr><td><code>volunteer</code></td><td><code>council8600</code></td><td>Edit pages, events and photos</td></tr>
 			<tr><td><code>faith</code></td><td><code>council8600</code></td><td>Program owner: update only the Faith page and their own events</td></tr>
 			<tr><td><code>cor</code></td><td><code>council8600</code></td><td>Program owner: update only the COR Mass page and their own events</td></tr>
@@ -50,6 +62,7 @@
 			<li><strong>Swap the Knight of the Month photo.</strong> Pages &rarr; Recognition &rarr; click the photo &rarr; Replace &rarr; pick a photo &rarr; change the name &rarr; Save.</li>
 		</ol>
 	</section>
+	
 	<p class="muted">Prototype only: names, dates and phone numbers are placeholders, and forms send nothing. The official site is <a href="https://www.kofc8600.org">www.kofc8600.org</a>.</p>
 </main>
 </html>
