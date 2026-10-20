@@ -1,1 +1,1 @@
-2026-10-20, Publish a browser demo on GitHub Pages via WordPress Playground
+2026-10-20, Describe the demo's reset behaviour as tested
