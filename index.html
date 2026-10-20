@@ -21,9 +21,12 @@
 	ol { padding-left: 1.3em; }
 	.share { text-align: center; }
 	.share img { display: block; width: min(340px, 100%); height: auto; margin: 0 auto; }
+	.share .tabs { margin: 0 0 14px; }
+	.share .tabs button { margin: 0 4px 6px; padding: 10px 20px; border: 2px solid #f7b718; border-radius: 8px; background: none; color: #0b1c49; font: 700 1rem Arial, Helvetica, sans-serif; cursor: pointer; }
+	.share .tabs button[aria-pressed="true"] { background: #f7b718; }
 	.share .address { margin: 10px 0 2px; color: #112866; font: 700 2.1rem/1.2 Arial, Helvetica, sans-serif; overflow-wrap: anywhere; }
-	iframe { display: block; width: 100%; height: 2000px; border: 0; }
-	@media (max-width: 700px) { .share { display: none; } iframe { height: 2400px; } }
+	iframe { display: block; width: 100%; height: 2150px; border: 0; }
+	@media (max-width: 700px) { .share { display: none; } iframe { height: 2450px; } }
 </style>
 <header>
 	<h1>Council 8600 website prototype</h1>
@@ -31,16 +34,20 @@
 </header>
 <main>
 	<section class="share">
-		<img src="qr.svg" alt="QR code that opens this page" width="340" height="340">
+		<p class="tabs">
+			<button type="button" aria-pressed="true" data-qr="qr.svg" data-hint="Point your phone camera at the code, or type the address.">Try the demo</button>
+			<button type="button" aria-pressed="false" data-qr="qr-feedback.svg" data-hint="Point your phone camera at the code, or type the address and tap Give feedback.">Give feedback</button>
+		</p>
+		<img src="qr.svg" alt="QR code for the address below" width="340" height="340">
 		<p class="address">undu82.github.io/kofc8600-demo</p>
-		<p class="muted">Point your phone camera at the code, or type the address.</p>
+		<p class="muted hint">Point your phone camera at the code, or type the address.</p>
 	</section>
 	<section>
 		<h2>Try the new website</h2>
 		<p>The button opens your own copy of the proposed site, running in your browser. Look around, then log in and try editing.</p>
-		<p><a class="button" href="master/">Open the demo</a><br><small>Updated 2026-10-20, Show a QR code and a feedback form on the demo's front page</small></p>
+		<p><a class="button" href="master/">Open the demo</a><br><small>Updated 2026-10-20, Add the feedback form, and let the QR code switch to it</small></p>
 
-		
+		<p><a class="button outline" href="#feedback">Give feedback</a></p>
 		<p class="muted">The first load can take up to a minute. Nobody else sees your changes, and reloading the page or opening the link again starts a fresh copy.</p>
 	</section>
 	<section>
@@ -62,7 +69,19 @@
 			<li><strong>Swap the Knight of the Month photo.</strong> Pages &rarr; Recognition &rarr; click the photo &rarr; Replace &rarr; pick a photo &rarr; change the name &rarr; Save.</li>
 		</ol>
 	</section>
-	
+	<section id="feedback">
+		<h2>Tell us what you think</h2>
+		<p>A few quick questions, all optional. It takes about two minutes.</p>
+		<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScbhH-d1DESqgLgXVOcxEXf4_qSDnS7KwzFQzfFXNHRs2zwzA/viewform?embedded=true" title="Feedback form">Loading&hellip;</iframe>
+		<p class="muted">Form not showing? <a href="https://docs.google.com/forms/d/e/1FAIpQLScbhH-d1DESqgLgXVOcxEXf4_qSDnS7KwzFQzfFXNHRs2zwzA/viewform">Open it on its own page</a>.</p>
+	</section>
 	<p class="muted">Prototype only: names, dates and phone numbers are placeholders, and forms send nothing. The official site is <a href="https://www.kofc8600.org">www.kofc8600.org</a>.</p>
 </main>
+<script>
+	document.querySelectorAll('.share .tabs button').forEach((tab, _, tabs) => tab.addEventListener('click', () => {
+		tabs.forEach(t => t.setAttribute('aria-pressed', t === tab));
+		document.querySelector('.share img').src = tab.dataset.qr;
+		document.querySelector('.share .hint').textContent = tab.dataset.hint;
+	}));
+</script>
 </html>
