@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Council 8600 website prototype</title>
+<style>
+	body { margin: 0; background: #f7f7f7; color: #16181d; font: 17px/1.55 Arial, Helvetica, sans-serif; }
+	header { background: #112866; color: #fff; padding: 28px 16px; border-bottom: 4px solid #f7b718; }
+	header h1 { margin: 0 auto; max-width: 680px; font: 700 1.6rem/1.25 Georgia, serif; }
+	header p { margin: 6px auto 0; max-width: 680px; color: #d7e4f1; }
+	main { max-width: 680px; margin: 0 auto; padding: 24px 16px 48px; }
+	section { background: #fff; border-radius: 12px; box-shadow: .5rem .5rem 2.25rem rgba(0,0,0,.1); padding: 20px 22px; margin-bottom: 20px; }
+	h2 { margin: 0 0 10px; color: #112866; font: 700 1.25rem/1.3 Georgia, serif; }
+	.button { display: inline-block; background: #f7b718; color: #0b1c49; font-weight: 700; text-decoration: none; padding: 12px 22px; border-radius: 8px; margin-bottom: 4px; }
+	.button.outline { background: none; border: 2px solid #f7b718; padding: 10px 20px; }
+	small, .muted { color: #5a6373; }
+	table { border-collapse: collapse; width: 100%; font-size: .95rem; }
+	th, td { text-align: left; padding: 8px 6px; border-bottom: 1px solid #d3dae3; vertical-align: top; }
+	code { background: #eaf0f8; padding: 1px 5px; border-radius: 4px; }
+	ol { padding-left: 1.3em; }
+</style>
+<header>
+	<h1>Council 8600 website prototype</h1>
+	<p>Knights of Columbus Council 8600, Fairfax Station, Virginia</p>
+</header>
+<main>
+	<section>
+		<h2>Try the new website</h2>
+		<p>The button opens your own copy of the proposed site, running in your browser. Look around, then log in and try editing.</p>
+		<p><a class="button" href="master/">Open the demo</a><br><small>Updated 2026-10-20, Publish a browser demo on GitHub Pages via WordPress Playground</small></p>
+
+		<p class="muted">The first load takes about a minute. Nothing you change is saved or seen by anyone else: reload or close the tab and the site starts fresh.</p>
+	</section>
+	<section>
+		<h2>Logins</h2>
+		<p>You start logged in as the administrator. To try another role, log out (top right of the dashboard), then log in with one of these.</p>
+		<table>
+			<tr><th>Login</th><th>Password</th><th>Can do</th></tr>
+			<tr><td><code>volunteer</code></td><td><code>council8600</code></td><td>Edit pages, events and photos</td></tr>
+			<tr><td><code>faith</code></td><td><code>council8600</code></td><td>Program owner: update only the Faith page and their own events</td></tr>
+			<tr><td><code>cor</code></td><td><code>council8600</code></td><td>Program owner: update only the COR Mass page and their own events</td></tr>
+		</table>
+		<p class="muted">The members-only documents page uses the password <code>members</code>.</p>
+	</section>
+	<section>
+		<h2>Two things to try as <code>volunteer</code></h2>
+		<ol>
+			<li><strong>Add an event.</strong> Dashboard &rarr; Events &rarr; Add event. Type a title, fill in &ldquo;When and where&rdquo; on the right, then press Publish. It appears on the home page and the Events page.</li>
+			<li><strong>Swap the Knight of the Month photo.</strong> Pages &rarr; Recognition &rarr; click the photo &rarr; Replace &rarr; pick a photo &rarr; change the name &rarr; Save.</li>
+		</ol>
+	</section>
+	<p class="muted">Prototype only: names, dates and phone numbers are placeholders, and forms send nothing. The official site is <a href="https://www.kofc8600.org">www.kofc8600.org</a>.</p>
+</main>
+</html>
