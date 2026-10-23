@@ -1,1 +1,0 @@
-2026-10-22, Ask for an emailed code after the password at every sign-in
