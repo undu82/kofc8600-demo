@@ -27,6 +27,16 @@
       }
     },
     {
+      "step": "installPlugin",
+      "pluginData": {
+        "resource": "url",
+        "url": "https://undu82.github.io/kofc8600-demo/master/kofc8600-members.zip"
+      },
+      "options": {
+        "activate": true
+      }
+    },
+    {
       "step": "installTheme",
       "themeData": {
         "resource": "url",

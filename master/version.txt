@@ -1,1 +1,1 @@
-2026-10-22, Add site search: header box, results page, and matching on visible text
+2026-10-22, Add a members' area: requests, officer approval and members-only pages
