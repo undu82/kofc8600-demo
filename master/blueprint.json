@@ -9,6 +9,16 @@
     {
       "step": "installPlugin",
       "pluginData": {
+        "resource": "wordpress.org/plugins",
+        "slug": "two-factor"
+      },
+      "options": {
+        "activate": true
+      }
+    },
+    {
+      "step": "installPlugin",
+      "pluginData": {
         "resource": "url",
         "url": "https://undu82.github.io/kofc8600-demo/master/kofc8600-events.zip"
       },
