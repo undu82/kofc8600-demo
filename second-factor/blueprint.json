@@ -1,0 +1,77 @@
+{
+  "$schema": "https://playground.wordpress.net/blueprint-schema.json",
+  "landingPage": "/",
+  "preferredVersions": {
+    "php": "8.3",
+    "wp": "latest"
+  },
+  "steps": [
+    {
+      "step": "installPlugin",
+      "pluginData": {
+        "resource": "wordpress.org/plugins",
+        "slug": "two-factor"
+      },
+      "options": {
+        "activate": true
+      }
+    },
+    {
+      "step": "installPlugin",
+      "pluginData": {
+        "resource": "url",
+        "url": "https://undu82.github.io/kofc8600-demo/second-factor/kofc8600-events.zip"
+      },
+      "options": {
+        "activate": true
+      }
+    },
+    {
+      "step": "installPlugin",
+      "pluginData": {
+        "resource": "url",
+        "url": "https://undu82.github.io/kofc8600-demo/second-factor/kofc8600-owners.zip"
+      },
+      "options": {
+        "activate": true
+      }
+    },
+    {
+      "step": "installPlugin",
+      "pluginData": {
+        "resource": "url",
+        "url": "https://undu82.github.io/kofc8600-demo/second-factor/kofc8600-members.zip"
+      },
+      "options": {
+        "activate": true
+      }
+    },
+    {
+      "step": "installTheme",
+      "themeData": {
+        "resource": "url",
+        "url": "https://undu82.github.io/kofc8600-demo/second-factor/kofc8600-theme.zip"
+      },
+      "options": {
+        "activate": true
+      }
+    },
+    {
+      "step": "unzip",
+      "zipFile": {
+        "resource": "url",
+        "url": "https://undu82.github.io/kofc8600-demo/second-factor/kofc8600-content.zip"
+      },
+      "extractToPath": "/wordpress/wp-content/kofc8600-demo"
+    },
+    {
+      "step": "runPHP",
+      "code": "<?php require_once '/wordpress/wp-load.php'; require '/wordpress/wp-content/kofc8600-demo/setup.php';"
+    }
+  ],
+  "meta": {
+    "title": "Knights of Columbus Council 8600 (prototype)",
+    "author": "undu82"
+  },
+  "login": true
+}
