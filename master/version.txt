@@ -1,1 +1,1 @@
-2026-10-26, Show the emblem in the demo landing page's browser tab
+2026-10-26, Show the demo inside our own page, with the emblem in the tab
