@@ -19,7 +19,10 @@
 	th, td { text-align: left; padding: 8px 6px; border-bottom: 1px solid #d3dae3; vertical-align: top; }
 	code { background: #eaf0f8; padding: 1px 5px; border-radius: 4px; }
 	ol { padding-left: 1.3em; }
-	.share { text-align: center; }
+	.share { background: #fff; border-radius: 12px; box-shadow: .5rem .5rem 2.25rem rgba(0,0,0,.1); margin-bottom: 20px; }
+	.share summary { padding: 14px 22px; color: #112866; font-weight: 700; cursor: pointer; }
+	.share summary small { font-weight: 400; }
+	.share .panel { padding: 4px 22px 20px; text-align: center; }
 	.share img { display: block; width: min(340px, 100%); height: auto; margin: 0 auto; }
 	.share .tabs { margin: 0 0 14px; }
 	.share .tabs button { margin: 0 4px 6px; padding: 10px 20px; border: 2px solid #f7b718; border-radius: 8px; background: none; color: #0b1c49; font: 700 1rem Arial, Helvetica, sans-serif; cursor: pointer; }
@@ -33,11 +36,22 @@
 	<p>Knights of Columbus Council 8600, Fairfax Station, Virginia</p>
 </header>
 <main>
-	
+	<details class="share" id="qr">
+		<summary>QR code for meetings <small>(to show on a projector)</small></summary>
+		<div class="panel">
+			<p class="tabs">
+			<button type="button" aria-pressed="true" data-qr="qr.svg" data-hint="Point your phone camera at the code, or type the address.">Try the demo</button>
+			<button type="button" aria-pressed="false" data-qr="qr-feedback.svg" data-hint="Point your phone camera at the code, or type the address and tap Give feedback.">Give feedback</button>
+		</p>
+			<img src="qr.svg" alt="QR code for the address below" width="340" height="340">
+			<p class="address">undu82.github.io/kofc8600-demo</p>
+			<p class="muted hint">Point your phone camera at the code, or type the address.</p>
+		</div>
+	</details>
 	<section>
 		<h2>Try the new website</h2>
 		<p>The button opens your own copy of the proposed site, running in your browser. Look around, then log in and try editing.</p>
-		<p><a class="button" href="master/">Open the demo</a><br><small>Updated 2026-10-26, Hide the QR code panel on the demo's front page</small></p>
+		<p><a class="button" href="master/">Open the demo</a><br><small>Updated 2026-10-26, Bring the QR code back in a panel that opens on click</small></p>
 
 		<p><a class="button outline" href="#feedback">Give feedback</a></p>
 		<p class="muted">The first load can take up to a minute. Nobody else sees your changes, and reloading the page or opening the link again starts a fresh copy.</p>
@@ -72,6 +86,7 @@
 	<p class="muted">Prototype only: names, dates and phone numbers are placeholders, and forms send nothing. The official site is <a href="https://www.kofc8600.org">www.kofc8600.org</a>.</p>
 </main>
 <script>
+	if (location.hash === '#qr') document.getElementById('qr').open = true;
 	document.querySelectorAll('.share .tabs button').forEach((tab, _, tabs) => tab.addEventListener('click', () => {
 		tabs.forEach(t => t.setAttribute('aria-pressed', t === tab));
 		document.querySelector('.share img').src = tab.dataset.qr;
