@@ -1,1 +1,1 @@
-2026-10-26, Show the demo inside our own page, with the emblem in the tab
+2026-10-26, Open the demo on Playground directly again
