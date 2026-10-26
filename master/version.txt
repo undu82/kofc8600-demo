@@ -1,1 +1,1 @@
-2026-10-26, Bring the QR code back in a panel that opens on click
+2026-10-26, Show the emblem in the demo landing page's browser tab
