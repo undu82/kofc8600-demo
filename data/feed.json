@@ -1,0 +1,1390 @@
+{
+ "generated": "2026-11-03T17:26:46-05:00",
+ "timezone": "America/New_York",
+ "source": {
+  "calendar": "Council 8600 Google Calendar",
+  "signups": "SignUpGenius"
+ },
+ "events": [
+  {
+   "id": "CSVConvertd2f532432071b5b48211337884cde5da@20261103",
+   "title": "Council Combined Meeting",
+   "start": "2026-11-03T19:00:00-05:00",
+   "end": "2026-11-03T21:00:00-05:00",
+   "allDay": false,
+   "place": "Old Saint Mary's Hall",
+   "notes": "",
+   "links": [],
+   "category": "council"
+  },
+  {
+   "id": "fciufui6iqkhq2gd2gjolko4pk@google.com@20261106",
+   "title": "Set Up for Christmas Tree Stands",
+   "start": "2026-11-06T10:00:00-05:00",
+   "end": "2026-11-06T12:30:00-05:00",
+   "allDay": false,
+   "place": "Old St Mary's Catholic Church, 5612 Ox Rd, Fairfax Station, VA 22039, USA",
+   "notes": "",
+   "links": [],
+   "category": "community"
+  },
+  {
+   "id": "CSVConvertf667f123ae8e1457eaa5feb9a1fe6d1f@20261106",
+   "title": "1st Friday Adoration",
+   "start": "2026-11-06T19:00:00-05:00",
+   "end": "2026-11-07T07:00:00-05:00",
+   "allDay": false,
+   "place": "Church",
+   "notes": "",
+   "links": [],
+   "category": "faith"
+  },
+  {
+   "id": "0obd47nifocrknprscb5eg1d40_R20250405T003000@google.com@20261106",
+   "title": "First Friday Adoration",
+   "start": "2026-11-06T20:30:00-05:00",
+   "end": "2026-11-07T09:00:00-05:00",
+   "allDay": false,
+   "place": "St. Mary of Sorrows Catholic Church, 10500 Zion Dr, Fairfax, VA 22032, USA",
+   "notes": "Sign up on Council website for at least 1 hour with our LORD.\nEucharistic Adoration · St. Mary of Sorrows Parish, Fairfax, VA \n*Please sign up so we know what hours are covered.",
+   "links": [
+    {
+     "text": "Eucharistic Adoration · St. Mary of Sorrows Parish, Fairfax, VA",
+     "url": "https://smos.weadorehim.com/"
+    }
+   ],
+   "category": "faith"
+  },
+  {
+   "id": "CSVConvert87090878a8129282429165ae82300c42@20261107",
+   "title": "State Sponsored Event",
+   "start": "2026-11-07T00:00:00-05:00",
+   "end": "2026-11-07T00:00:00-05:00",
+   "allDay": true,
+   "place": "Offsite",
+   "notes": "Special Olympics Fall Games Virginia Beach",
+   "links": [],
+   "category": "other"
+  },
+  {
+   "id": "CSVConvertf5fc5efdfc6c8e0b9be979342e013868@20261107",
+   "title": "That Man is You",
+   "start": "2026-11-07T07:00:00-05:00",
+   "end": "2026-11-07T08:30:00-05:00",
+   "allDay": false,
+   "place": "St. Joseph's Hall",
+   "notes": "",
+   "links": [],
+   "category": "faith"
+  },
+  {
+   "id": "9s8t69o6f7k5dmoc3sui9sp5r8@google.com@20261107",
+   "title": "Soccer Challenge",
+   "start": "2026-11-07T09:00:00-05:00",
+   "end": "2026-11-07T14:00:00-05:00",
+   "allDay": false,
+   "place": "Benedictine College Preparatory, 12829 River Rd, Richmond, VA 23238, USA",
+   "notes": "Point of contact! Louis Federico, 407 Greentree Cove Newport News, Virginia",
+   "links": [],
+   "category": "community"
+  },
+  {
+   "id": "CSVConvertd397293ae2c041d57fd38b5eded28bd1@20261107",
+   "title": "Spaghetti Dinner",
+   "start": "2026-11-07T22:00:00-05:00",
+   "end": "2026-11-07T23:30:00-05:00",
+   "allDay": false,
+   "place": "Farrell Hall",
+   "notes": "Show time for “set-up” helpers NLT 5:00 pm",
+   "links": [],
+   "category": "family"
+  },
+  {
+   "id": "CSVConvertca23a4d8866f5ce516f5449a6c77eae4@20261108",
+   "title": "Pancake Breakfast",
+   "start": "2026-11-08T08:00:00-05:00",
+   "end": "2026-11-08T11:30:00-05:00",
+   "allDay": false,
+   "place": "Farrell Hall",
+   "notes": "",
+   "links": [],
+   "category": "family"
+  },
+  {
+   "id": "mng2fdbv7nl34fvfsbid4d85p0@google.com@20261108",
+   "title": "Brian Moynihan Viewing",
+   "start": "2026-11-08T16:00:00-05:00",
+   "end": "2026-11-08T18:00:00-05:00",
+   "allDay": false,
+   "place": "Fairfax Memorial Funeral Home, 9902 Braddock Rd, Fairfax, VA 22032, USA",
+   "notes": "",
+   "links": [],
+   "category": "council",
+   "signup": {
+    "id": 67169225,
+    "url": "https://www.signupgenius.com/go/20F0944AAAC2FA4FF2-67169225-honor",
+    "kind": "volunteers",
+    "open": 19,
+    "slots": [
+     {
+      "item": "Viewing/Wake Support",
+      "start": "2026-11-08T16:00:00-05:00",
+      "end": "2026-11-08T18:00:00-05:00",
+      "open": 9
+     },
+     {
+      "item": "Rosary",
+      "start": "2026-11-08T17:30:00-05:00",
+      "end": "2026-11-08T18:00:00-05:00",
+      "open": 10
+     }
+    ]
+   }
+  },
+  {
+   "id": "p5veuc21u868k4o581c17tp3mo@google.com@20261109",
+   "title": "Brian Moynihan Mass and burial",
+   "start": "2026-11-09T11:00:00-05:00",
+   "end": "2026-11-09T13:15:00-05:00",
+   "allDay": false,
+   "place": "st Mary Of Sorrows Historic Chuch zion dr",
+   "notes": "",
+   "links": [],
+   "category": "council"
+  },
+  {
+   "id": "349mccmg0rl77f380es9rhoqh8@google.com@20261110",
+   "title": "Assembly meeting",
+   "start": "2026-11-10T19:00:00-05:00",
+   "end": "2026-11-10T21:00:00-05:00",
+   "allDay": false,
+   "place": "",
+   "notes": "",
+   "links": [],
+   "category": "council"
+  },
+  {
+   "id": "CSVConvert875e552fb7cbc023b6f57ad96902bcc2@20261111",
+   "title": "Veterans Day",
+   "start": "2026-11-11T09:00:00-05:00",
+   "end": "2026-11-11T11:00:00-05:00",
+   "allDay": false,
+   "place": "Historic Church",
+   "notes": "Distribute Flags at Cemetery",
+   "links": [],
+   "category": "community"
+  },
+  {
+   "id": "muvd1fa0jain8qpe8vhj74g7ig@google.com@20261111",
+   "title": "Mission Barbecue Lunch",
+   "start": "2026-11-11T12:00:00-05:00",
+   "end": "2026-11-11T15:00:00-05:00",
+   "allDay": false,
+   "place": "MISSION BBQ, 13067-J Lee Jackson Mem Hwy, Fairfax, VA 22033, USA",
+   "notes": "",
+   "links": [],
+   "category": "community",
+   "signup": {
+    "id": 66987395,
+    "url": "https://www.signupgenius.com/go/20F0944AAAC2FA4FF2-66987395-veterans",
+    "kind": "places",
+    "open": 73,
+    "slots": [
+     {
+      "item": "I will attend",
+      "start": "2026-11-11T10:30:00-05:00",
+      "end": "2026-11-11T12:00:00-05:00",
+      "open": 73
+     }
+    ]
+   }
+  },
+  {
+   "id": "dcn79btlg9flbhl1d0thu1k6ag@google.com@20261113",
+   "title": "Men’s Night Out",
+   "start": "2026-11-13T19:00:00-05:00",
+   "end": "2026-11-13T21:00:00-05:00",
+   "allDay": false,
+   "place": "Old Saint Mary’s Hall",
+   "notes": "Fraternal night with our priest. Happy hour with hors d’oeuvres and snacks. Weather permitting well have a bonfire and solve all the world’s problems. Drinks, soda, beer, wine, and booze are all free. Bring your own cigars. Bring your own special libations for taste test.",
+   "links": [],
+   "category": "faith"
+  },
+  {
+   "id": "CSVConvert3d543f17751cbb0d4df15df0ef0be0ba@20261114",
+   "title": "That Man is You",
+   "start": "2026-11-14T07:00:00-05:00",
+   "end": "2026-11-14T08:30:00-05:00",
+   "allDay": false,
+   "place": "St. Joseph's Hall",
+   "notes": "",
+   "links": [],
+   "category": "faith"
+  },
+  {
+   "id": "7rmdor9kaob0lmcv4hl3rp0np0_R20241109T123000@google.com@20261114",
+   "title": "Men's Ministry",
+   "start": "2026-11-14T07:30:00-05:00",
+   "end": "2026-11-14T09:00:00-05:00",
+   "allDay": false,
+   "place": "Old St. Mary of Sorrows Hall",
+   "notes": "The St. Mary of Sorrows Men’s Ministry provides fraternal support to help Catholic men rise to the unique challenges that fathers, husbands and community members face in the modern world. Join other Catholic men in reading and reflecting on Sunday scriptures, and discussing how it relates to our lives, and how bringing Christ into our lives helps us become better Catholic men, husbands, dads, fami",
+   "links": [],
+   "category": "faith"
+  },
+  {
+   "id": "1rf3jj14k5v8kkou27ktm2s7ck@google.com@20261114",
+   "title": "KOVAR",
+   "start": "2026-11-14T18:25:00-05:00",
+   "end": "2026-11-14T18:50:00-05:00",
+   "allDay": false,
+   "place": "St. Mary of Sorrows Catholic Church, 10500 Zion Dr Church, Fairfax, VA 22032, USA",
+   "notes": "KOVAR Collection outside each Mass this weekend. Tootsie Rolls for everyone.",
+   "links": [],
+   "category": "community",
+   "signup": {
+    "id": 67116342,
+    "url": "https://www.signupgenius.com/go/20F0944AAAC2FA4FF2-67116342-fall",
+    "kind": "volunteers",
+    "open": 5,
+    "slots": [
+     {
+      "item": "Church",
+      "start": "2026-11-14T18:00:00-05:00",
+      "end": "2026-11-14T18:20:00-05:00",
+      "open": 5
+     }
+    ]
+   }
+  },
+  {
+   "id": "9apn0om32obvo9dkf5ugnn216g@google.com@20261115",
+   "title": "KOVAR",
+   "start": "2026-11-15T00:00:00-05:00",
+   "end": "2026-11-15T00:00:00-05:00",
+   "allDay": true,
+   "place": "St. Mary of Sorrows Catholic Church, 10500 Zion Dr Church, Fairfax, VA 22032, USA",
+   "notes": "KOVAR collection after each Mass this weekend. Tootsie rolls for everyone.",
+   "links": [],
+   "category": "community",
+   "signup": {
+    "id": 67116342,
+    "url": "https://www.signupgenius.com/go/20F0944AAAC2FA4FF2-67116342-fall",
+    "kind": "volunteers",
+    "open": 20,
+    "slots": [
+     {
+      "item": "Church",
+      "start": "2026-11-15T08:30:00-05:00",
+      "end": "2026-11-15T08:50:00-05:00",
+      "open": 5
+     },
+     {
+      "item": "Church",
+      "start": "2026-11-15T10:30:00-05:00",
+      "end": "2026-11-15T10:50:00-05:00",
+      "open": 5
+     },
+     {
+      "item": "Church",
+      "start": "2026-11-15T12:30:00-05:00",
+      "end": "2026-11-15T12:50:00-05:00",
+      "open": 5
+     },
+     {
+      "item": "Church",
+      "start": "2026-11-15T18:00:00-05:00",
+      "end": "2026-11-15T18:20:00-05:00",
+      "open": 5
+     }
+    ]
+   }
+  },
+  {
+   "id": "CSVConvertda1d6f0d43609cad779c97ebcf27fcc5@20261117",
+   "title": "Council Combined Meeting",
+   "start": "2026-11-17T19:00:00-05:00",
+   "end": "2026-11-17T21:00:00-05:00",
+   "allDay": false,
+   "place": "Old Saint Mary's Hall",
+   "notes": "",
+   "links": [],
+   "category": "council"
+  },
+  {
+   "id": "CSVConvert245af8c803e2ce8fff6b89f95449f3fd@20261120",
+   "title": "Sacred Heart of Jesus Holy Hr",
+   "start": "2026-11-20T19:00:00-05:00",
+   "end": "2026-11-20T20:00:00-05:00",
+   "allDay": false,
+   "place": "Church",
+   "notes": "All Family Members Welcome",
+   "links": [],
+   "category": "faith"
+  },
+  {
+   "id": "CSVConvert6b2ed93ba1b4ae507f09c1b64d5e82c0@20261121",
+   "title": "That Man is You",
+   "start": "2026-11-21T07:00:00-05:00",
+   "end": "2026-11-21T08:30:00-05:00",
+   "allDay": false,
+   "place": "St. Joseph's Hall",
+   "notes": "",
+   "links": [],
+   "category": "faith"
+  },
+  {
+   "id": "qirfnpu1q65s429inl7av0vl08@google.com@20261121",
+   "title": "Chalice ceremony",
+   "start": "2026-11-21T11:30:00-05:00",
+   "end": "2026-11-21T12:30:00-05:00",
+   "allDay": false,
+   "place": "St. Mary of Sorrows Catholic Church, 10500 Zion Dr Church, Fairfax, VA 22032, USA",
+   "notes": "Assembly 3596 Chalice Ceremony honoring deceased Sir Knights who passed away in Fraternal years 2023 through 2026. All are welcome. There will be a reception in Farrell Hall after the ceremonial mass.",
+   "links": [],
+   "category": "faith",
+   "signup": {
+    "id": 67116221,
+    "url": "https://www.signupgenius.com/go/20F0944AAAC2FA4FF2-67116221-honor",
+    "kind": "volunteers",
+    "open": 12,
+    "slots": [
+     {
+      "item": "Color Guard - Memorial Chalice Mass",
+      "start": "2026-11-21T11:30:00-05:00",
+      "end": "2026-11-21T12:30:00-05:00",
+      "open": 12
+     }
+    ]
+   }
+  },
+  {
+   "id": "7g7qcstk71l5b2rdk5hlkj5pag@google.com@20261121",
+   "title": "BINGO",
+   "start": "2026-11-21T18:30:00-05:00",
+   "end": "2026-11-21T20:30:00-05:00",
+   "allDay": false,
+   "place": "",
+   "notes": "",
+   "links": [],
+   "category": "family"
+  },
+  {
+   "id": "CSVConvert693bc18f836ca19b3ae1414b47293508@20261126",
+   "title": "Thanksgiving",
+   "start": "2026-11-26T00:00:00-05:00",
+   "end": "2026-11-26T00:00:00-05:00",
+   "allDay": true,
+   "place": "",
+   "notes": "",
+   "links": [],
+   "category": "holiday"
+  },
+  {
+   "id": "CSVConvert9480433200893be40152db52a1f34930@20261127",
+   "title": "Christmas Tree Delivery",
+   "start": "2026-11-27T08:00:00-05:00",
+   "end": "2026-11-27T11:00:00-05:00",
+   "allDay": false,
+   "place": "Historic Church",
+   "notes": "",
+   "links": [],
+   "category": "community"
+  },
+  {
+   "id": "CSVConvert1a0367150f017edf2e40e6ae5920afc0@20261127",
+   "title": "Christmas Tree Sales Begin",
+   "start": "2026-11-27T12:00:00-05:00",
+   "end": "2026-11-27T21:00:00-05:00",
+   "allDay": false,
+   "place": "Historic Church",
+   "notes": "",
+   "links": [],
+   "category": "community"
+  },
+  {
+   "id": "CSVConvertd9ab30442366250f8fdc59b64602d062@20261128",
+   "title": "Diaper Collection",
+   "start": "2026-11-28T00:00:00-05:00",
+   "end": "2026-11-28T00:00:00-05:00",
+   "allDay": true,
+   "place": "Parish Center",
+   "notes": "",
+   "links": [],
+   "category": "life"
+  },
+  {
+   "id": "2jducqh83g80t27fs52oo3l2is_R20241228@google.com@20261128",
+   "title": "Diaper, Wipes & Formula Collection",
+   "start": "2026-11-28T00:00:00-05:00",
+   "end": "2026-11-29T00:00:00-05:00",
+   "allDay": true,
+   "place": "SMOS Parish Center, 5222 Sideburn Rd, Fairfax, VA 22032, USA",
+   "notes": "Council 8600 sponsors a monthly diapers, wipes, and formula collection to support the St Mary's food closet and MARiAH Center. \nThe MaRiH Center is Here to Help - The MaRiH Center offers support to pregnant women and families with young children. \nOur efforts support the Knight of Columbus initiative, Aid and Assistance After Pregnancy (ASAP) which helps mothers and babies by supporting pregnancy ",
+   "links": [
+    {
+     "text": "The MaRiH Center is Here to Help - The MaRiH Center",
+     "url": "https://marih.org/"
+    }
+   ],
+   "category": "life"
+  },
+  {
+   "id": "b30g3dvbq845c72aviu7hf37f0@google.com@20261129",
+   "title": "Christmas tree work",
+   "start": "2026-11-29T15:00:00-05:00",
+   "end": "2026-11-29T19:00:00-05:00",
+   "allDay": false,
+   "place": "",
+   "notes": "",
+   "links": [],
+   "category": "community"
+  },
+  {
+   "id": "CSVConvertc31734e9b4b8c9866705eed04f349384@20261201",
+   "title": "Christmas",
+   "start": "2026-12-01T00:00:00-05:00",
+   "end": "2026-12-01T00:00:00-05:00",
+   "allDay": true,
+   "place": "",
+   "notes": "",
+   "links": [],
+   "category": "holiday"
+  },
+  {
+   "id": "CSVConvert03b1bebde4abef3a55169907e2adaf2b@20261201",
+   "title": "Council Combined Meeting",
+   "start": "2026-12-01T19:00:00-05:00",
+   "end": "2026-12-01T21:00:00-05:00",
+   "allDay": false,
+   "place": "Old Saint Mary's Hall",
+   "notes": "",
+   "links": [],
+   "category": "council"
+  },
+  {
+   "id": "CSVConvert876fd409ecf723724679a096274f2a26@20261201",
+   "title": "Exemplification",
+   "start": "2026-12-01T19:00:00-05:00",
+   "end": "2026-12-01T20:00:00-05:00",
+   "allDay": false,
+   "place": "Historic Church",
+   "notes": "",
+   "links": [],
+   "category": "council"
+  },
+  {
+   "id": "CSVConvertb68654a47356631d828205bf49c3ba0b@20261204",
+   "title": "1st Friday Adoration",
+   "start": "2026-12-04T19:00:00-05:00",
+   "end": "2026-12-05T07:00:00-05:00",
+   "allDay": false,
+   "place": "Church",
+   "notes": "",
+   "links": [],
+   "category": "faith"
+  },
+  {
+   "id": "0obd47nifocrknprscb5eg1d40_R20250405T003000@google.com@20261204",
+   "title": "First Friday Adoration",
+   "start": "2026-12-04T20:30:00-05:00",
+   "end": "2026-12-05T09:00:00-05:00",
+   "allDay": false,
+   "place": "St. Mary of Sorrows Catholic Church, 10500 Zion Dr, Fairfax, VA 22032, USA",
+   "notes": "Sign up on Council website for at least 1 hour with our LORD.\nEucharistic Adoration · St. Mary of Sorrows Parish, Fairfax, VA \n*Please sign up so we know what hours are covered.",
+   "links": [
+    {
+     "text": "Eucharistic Adoration · St. Mary of Sorrows Parish, Fairfax, VA",
+     "url": "https://smos.weadorehim.com/"
+    }
+   ],
+   "category": "faith"
+  },
+  {
+   "id": "CSVConvert8fd6b1ea1cff9dfd46db5c2ea7d15a43@20261205",
+   "title": "That Man is You",
+   "start": "2026-12-05T07:00:00-05:00",
+   "end": "2026-12-05T08:30:00-05:00",
+   "allDay": false,
+   "place": "St. Joseph's Hall",
+   "notes": "",
+   "links": [],
+   "category": "faith"
+  },
+  {
+   "id": "CSVConvert37a40b46dc1c1f9014693b0afeaf031c@20261205",
+   "title": "Route 123 Cleanup",
+   "start": "2026-12-05T08:00:00-05:00",
+   "end": "2026-12-05T10:00:00-05:00",
+   "allDay": false,
+   "place": "Old Saint Mary's Hall",
+   "notes": "",
+   "links": [],
+   "category": "community"
+  },
+  {
+   "id": "CSVConvert0c94323c1b0558089edd50e17310134c@20261205",
+   "title": "BINGO",
+   "start": "2026-12-05T18:30:00-05:00",
+   "end": "2026-12-05T20:30:00-05:00",
+   "allDay": false,
+   "place": "Farrell Hall",
+   "notes": "",
+   "links": [],
+   "category": "family"
+  },
+  {
+   "id": "CSVConvert08640a8d4f1c0409321806b8ca898a27@20261207",
+   "title": "COR Mass for Men",
+   "start": "2026-12-07T05:30:00-05:00",
+   "end": "2026-12-07T06:00:00-05:00",
+   "allDay": false,
+   "place": "Church",
+   "notes": "All Family Members Welcome",
+   "links": [],
+   "category": "faith"
+  },
+  {
+   "id": "CSVConvert691d42ce599cbe62dedb2a97fcce6b7e@20261208",
+   "title": "Holy Day of Obligation",
+   "start": "2026-12-08T00:00:00-05:00",
+   "end": "2026-12-08T00:00:00-05:00",
+   "allDay": true,
+   "place": "",
+   "notes": "Feast of the Immaculate Conception",
+   "links": [],
+   "category": "holiday"
+  },
+  {
+   "id": "7sjelktd60sha8hba2bib72k5g@google.com@20261208",
+   "title": "Assembly meetings",
+   "start": "2026-12-08T19:00:00-05:00",
+   "end": "2026-12-08T21:00:00-05:00",
+   "allDay": false,
+   "place": "",
+   "notes": "",
+   "links": [],
+   "category": "council"
+  },
+  {
+   "id": "CSVConvert7b5a2fa215fca9bbde7c3755460bf6ec@20261212",
+   "title": "That Man is You",
+   "start": "2026-12-12T07:00:00-05:00",
+   "end": "2026-12-12T08:30:00-05:00",
+   "allDay": false,
+   "place": "St. Joseph's Hall",
+   "notes": "",
+   "links": [],
+   "category": "faith"
+  },
+  {
+   "id": "7rmdor9kaob0lmcv4hl3rp0np0_R20241109T123000@google.com@20261212",
+   "title": "Men's Ministry",
+   "start": "2026-12-12T07:30:00-05:00",
+   "end": "2026-12-12T09:00:00-05:00",
+   "allDay": false,
+   "place": "Old St. Mary of Sorrows Hall",
+   "notes": "The St. Mary of Sorrows Men’s Ministry provides fraternal support to help Catholic men rise to the unique challenges that fathers, husbands and community members face in the modern world. Join other Catholic men in reading and reflecting on Sunday scriptures, and discussing how it relates to our lives, and how bringing Christ into our lives helps us become better Catholic men, husbands, dads, fami",
+   "links": [],
+   "category": "faith"
+  },
+  {
+   "id": "CSVConverte4958173874c3929af9692576401b828@20261212",
+   "title": "KofC Christmas Party for Kids",
+   "start": "2026-12-12T12:00:00-05:00",
+   "end": "2026-12-12T14:00:00-05:00",
+   "allDay": false,
+   "place": "Farrell Hall",
+   "notes": "Squire Roses decorate and host the party. The Council provides food (hot dogs) and Santa Claus.",
+   "links": [],
+   "category": "family"
+  },
+  {
+   "id": "CSVConvert0a6ad2d72441e17601a8de0f3f05dd6e@20261212",
+   "title": "Spaghetti Dinner",
+   "start": "2026-12-12T18:00:00-05:00",
+   "end": "2026-12-12T19:30:00-05:00",
+   "allDay": false,
+   "place": "Farrell Hall",
+   "notes": "",
+   "links": [],
+   "category": "family"
+  },
+  {
+   "id": "CSVConvert96e0e8611574fe581f9ef18667639565@20261213",
+   "title": "Pancake Breakfast",
+   "start": "2026-12-13T08:00:00-05:00",
+   "end": "2026-12-13T11:30:00-05:00",
+   "allDay": false,
+   "place": "Farrell Hall",
+   "notes": "",
+   "links": [],
+   "category": "family"
+  },
+  {
+   "id": "CSVConverte1f1792583d284b3f917588f3e6b642a@20261215",
+   "title": "Council Combined Meeting",
+   "start": "2026-12-15T19:00:00-05:00",
+   "end": "2026-12-15T21:00:00-05:00",
+   "allDay": false,
+   "place": "Old Saint Mary's Hall",
+   "notes": "",
+   "links": [],
+   "category": "council"
+  },
+  {
+   "id": "CSVConvert9a51d32804f9d122446dbe8e52f69f1d@20261218",
+   "title": "Sacred Heart of Jesus Holy Hr",
+   "start": "2026-12-18T19:00:00-05:00",
+   "end": "2026-12-18T20:00:00-05:00",
+   "allDay": false,
+   "place": "Church",
+   "notes": "All Family Members Welcome",
+   "links": [],
+   "category": "faith"
+  },
+  {
+   "id": "CSVConvertddbeccbe24e099498b3f4e16daf14705@20261219",
+   "title": "That Man is You",
+   "start": "2026-12-19T07:00:00-05:00",
+   "end": "2026-12-19T08:30:00-05:00",
+   "allDay": false,
+   "place": "St. Joseph's Hall",
+   "notes": "",
+   "links": [],
+   "category": "faith"
+  },
+  {
+   "id": "CSVConvertfbb83c83aad14a2d56b82c74ea332a10@20261219",
+   "title": "Wreaths Across America",
+   "start": "2026-12-19T12:00:00-05:00",
+   "end": "2026-12-19T13:00:00-05:00",
+   "allDay": false,
+   "place": "Historic Church",
+   "notes": "Assembly event",
+   "links": [],
+   "category": "community"
+  },
+  {
+   "id": "3dtot0iourg7skiqclbcc4saab@google.com@20261220",
+   "title": "Blood Drive",
+   "start": "2026-12-20T08:00:00-05:00",
+   "end": "2026-12-20T14:00:00-05:00",
+   "allDay": false,
+   "place": "Farrell Hall",
+   "notes": "",
+   "links": [],
+   "category": "community"
+  },
+  {
+   "id": "CSVConvertf435548944e24ef866bf9da1cf770c3e@20261226",
+   "title": "Diaper Collection",
+   "start": "2026-12-26T00:00:00-05:00",
+   "end": "2026-12-26T00:00:00-05:00",
+   "allDay": true,
+   "place": "Parish Center",
+   "notes": "",
+   "links": [],
+   "category": "life"
+  },
+  {
+   "id": "2jducqh83g80t27fs52oo3l2is_R20241228@google.com@20261226",
+   "title": "Diaper, Wipes & Formula Collection",
+   "start": "2026-12-26T00:00:00-05:00",
+   "end": "2026-12-27T00:00:00-05:00",
+   "allDay": true,
+   "place": "SMOS Parish Center, 5222 Sideburn Rd, Fairfax, VA 22032, USA",
+   "notes": "Council 8600 sponsors a monthly diapers, wipes, and formula collection to support the St Mary's food closet and MARiAH Center. \nThe MaRiH Center is Here to Help - The MaRiH Center offers support to pregnant women and families with young children. \nOur efforts support the Knight of Columbus initiative, Aid and Assistance After Pregnancy (ASAP) which helps mothers and babies by supporting pregnancy ",
+   "links": [
+    {
+     "text": "The MaRiH Center is Here to Help - The MaRiH Center",
+     "url": "https://marih.org/"
+    }
+   ],
+   "category": "life"
+  },
+  {
+   "id": "CSVConvert99ac5ab498039d3cd591bcca8eba1e02@20270101",
+   "title": "New Year's Day",
+   "start": "2027-01-01T00:00:00-05:00",
+   "end": "2027-01-01T00:00:00-05:00",
+   "allDay": true,
+   "place": "Church",
+   "notes": "Holy Day of Obligation",
+   "links": [],
+   "category": "holiday"
+  },
+  {
+   "id": "CSVConverta12de9df3b3499e9cb8a5538caee5780@20270101",
+   "title": "1st Friday Adoration",
+   "start": "2027-01-01T19:00:00-05:00",
+   "end": "2027-01-02T07:00:00-05:00",
+   "allDay": false,
+   "place": "Church",
+   "notes": "",
+   "links": [],
+   "category": "faith"
+  },
+  {
+   "id": "0obd47nifocrknprscb5eg1d40_R20250405T003000@google.com@20270101",
+   "title": "First Friday Adoration",
+   "start": "2027-01-01T20:30:00-05:00",
+   "end": "2027-01-02T09:00:00-05:00",
+   "allDay": false,
+   "place": "St. Mary of Sorrows Catholic Church, 10500 Zion Dr, Fairfax, VA 22032, USA",
+   "notes": "Sign up on Council website for at least 1 hour with our LORD.\nEucharistic Adoration · St. Mary of Sorrows Parish, Fairfax, VA \n*Please sign up so we know what hours are covered.",
+   "links": [
+    {
+     "text": "Eucharistic Adoration · St. Mary of Sorrows Parish, Fairfax, VA",
+     "url": "https://smos.weadorehim.com/"
+    }
+   ],
+   "category": "faith"
+  },
+  {
+   "id": "CSVConvertf93cf9c75840377240b86c4e6446df32@20270104",
+   "title": "COR Mass for Men",
+   "start": "2027-01-04T05:30:00-05:00",
+   "end": "2027-01-04T06:00:00-05:00",
+   "allDay": false,
+   "place": "Church",
+   "notes": "All Family Members Welcome",
+   "links": [],
+   "category": "faith"
+  },
+  {
+   "id": "CSVConvert5dad96692a68add4bd007bbb50f6d25e@20270105",
+   "title": "Council Combined Meeting",
+   "start": "2027-01-05T19:00:00-05:00",
+   "end": "2027-01-05T21:00:00-05:00",
+   "allDay": false,
+   "place": "Old Saint Mary's Hall",
+   "notes": "",
+   "links": [],
+   "category": "council"
+  },
+  {
+   "id": "CSVConverta2e4d802f7e765eb210e2588dfc8d873@20270108",
+   "title": "State Council Mid-year Meeting",
+   "start": "2027-01-08T16:00:00-05:00",
+   "end": "2027-01-10T11:00:00-05:00",
+   "allDay": false,
+   "place": "Offsite",
+   "notes": "\"St William of York Church, Stafford, VA\"",
+   "links": [],
+   "category": "council"
+  },
+  {
+   "id": "CSVConvert31e4ae89b22387ec6b32ccb097d53952@20270109",
+   "title": "That Man is You",
+   "start": "2027-01-09T07:00:00-05:00",
+   "end": "2027-01-09T08:30:00-05:00",
+   "allDay": false,
+   "place": "St. Joseph's Hall",
+   "notes": "",
+   "links": [],
+   "category": "faith"
+  },
+  {
+   "id": "7rmdor9kaob0lmcv4hl3rp0np0_R20241109T123000@google.com@20270109",
+   "title": "Men's Ministry",
+   "start": "2027-01-09T07:30:00-05:00",
+   "end": "2027-01-09T09:00:00-05:00",
+   "allDay": false,
+   "place": "Old St. Mary of Sorrows Hall",
+   "notes": "The St. Mary of Sorrows Men’s Ministry provides fraternal support to help Catholic men rise to the unique challenges that fathers, husbands and community members face in the modern world. Join other Catholic men in reading and reflecting on Sunday scriptures, and discussing how it relates to our lives, and how bringing Christ into our lives helps us become better Catholic men, husbands, dads, fami",
+   "links": [],
+   "category": "faith"
+  },
+  {
+   "id": "CSVConvertf3f577594e336c608d07b120b1cb7b7e@20270109",
+   "title": "Spaghetti Dinner",
+   "start": "2027-01-09T18:00:00-05:00",
+   "end": "2027-01-09T19:30:00-05:00",
+   "allDay": false,
+   "place": "Farrell Hall",
+   "notes": "",
+   "links": [],
+   "category": "family"
+  },
+  {
+   "id": "CSVConvertf9707850bb86965db6b8ee58e5eff3c9@20270110",
+   "title": "State Sponsored Event",
+   "start": "2027-01-10T00:00:00-05:00",
+   "end": "2027-01-10T00:00:00-05:00",
+   "allDay": true,
+   "place": "Offsite",
+   "notes": "Religious Freedom Day - Fredericksburg",
+   "links": [],
+   "category": "other"
+  },
+  {
+   "id": "CSVConvert0f4f0894e2563c4534b7c0531362474f@20270110",
+   "title": "Pancake Breakfast",
+   "start": "2027-01-10T08:00:00-05:00",
+   "end": "2027-01-10T11:30:00-05:00",
+   "allDay": false,
+   "place": "Farrell Hall",
+   "notes": "",
+   "links": [],
+   "category": "family"
+  },
+  {
+   "id": "CSVConvert8f0f2420f95e6ed40face946d9317c67@20270115",
+   "title": "Sacred Heart of Jesus Holy Hr",
+   "start": "2027-01-15T19:00:00-05:00",
+   "end": "2027-01-15T20:00:00-05:00",
+   "allDay": false,
+   "place": "Church",
+   "notes": "All Family Members Welcome",
+   "links": [],
+   "category": "faith"
+  },
+  {
+   "id": "CSVConvertfea90c8d3feb21d5edc8c03c34099fbe@20270116",
+   "title": "That Man is You",
+   "start": "2027-01-16T07:00:00-05:00",
+   "end": "2027-01-16T08:30:00-05:00",
+   "allDay": false,
+   "place": "St. Joseph's Hall",
+   "notes": "",
+   "links": [],
+   "category": "faith"
+  },
+  {
+   "id": "CSVConvert1c9077f03cd8b2ece10004261f69e32a@20270116",
+   "title": "BINGO",
+   "start": "2027-01-16T18:30:00-05:00",
+   "end": "2027-01-16T20:30:00-05:00",
+   "allDay": false,
+   "place": "Farrell Hall",
+   "notes": "",
+   "links": [],
+   "category": "family"
+  },
+  {
+   "id": "CSVConvertdd130993f978f921f731476f8b061a0a@20270119",
+   "title": "Council Combined Meeting",
+   "start": "2027-01-19T19:00:00-05:00",
+   "end": "2027-01-19T21:00:00-05:00",
+   "allDay": false,
+   "place": "Old Saint Mary's Hall",
+   "notes": "",
+   "links": [],
+   "category": "council"
+  },
+  {
+   "id": "CSVConvert3dde4806391f5da2ab48124390fa7764@20270122",
+   "title": "March for Life",
+   "start": "2027-01-22T00:00:00-05:00",
+   "end": "2027-01-22T00:00:00-05:00",
+   "allDay": true,
+   "place": "Offsite",
+   "notes": "Washington DC Mall - National Pro-Life Day",
+   "links": [],
+   "category": "life"
+  },
+  {
+   "id": "CSVConvertc5ae6e3d962261a711d882e928ab8f3a@20270123",
+   "title": "Diaper Collection",
+   "start": "2027-01-23T00:00:00-05:00",
+   "end": "2027-01-23T00:00:00-05:00",
+   "allDay": true,
+   "place": "Parish Center",
+   "notes": "",
+   "links": [],
+   "category": "life"
+  },
+  {
+   "id": "2jducqh83g80t27fs52oo3l2is_R20241228@google.com@20270123",
+   "title": "Diaper, Wipes & Formula Collection",
+   "start": "2027-01-23T00:00:00-05:00",
+   "end": "2027-01-24T00:00:00-05:00",
+   "allDay": true,
+   "place": "SMOS Parish Center, 5222 Sideburn Rd, Fairfax, VA 22032, USA",
+   "notes": "Council 8600 sponsors a monthly diapers, wipes, and formula collection to support the St Mary's food closet and MARiAH Center. \nThe MaRiH Center is Here to Help - The MaRiH Center offers support to pregnant women and families with young children. \nOur efforts support the Knight of Columbus initiative, Aid and Assistance After Pregnancy (ASAP) which helps mothers and babies by supporting pregnancy ",
+   "links": [
+    {
+     "text": "The MaRiH Center is Here to Help - The MaRiH Center",
+     "url": "https://marih.org/"
+    }
+   ],
+   "category": "life"
+  },
+  {
+   "id": "CSVConvert071b44a6c1f0795047151aeabde078be@20270123",
+   "title": "That Man is You",
+   "start": "2027-01-23T07:00:00-05:00",
+   "end": "2027-01-23T08:30:00-05:00",
+   "allDay": false,
+   "place": "St. Joseph's Hall",
+   "notes": "",
+   "links": [],
+   "category": "faith"
+  },
+  {
+   "id": "CSVConvertd6071b99c778182e462b7017efe45359@20270129",
+   "title": "State Sponsored Event",
+   "start": "2027-01-29T00:00:00-05:00",
+   "end": "2027-01-29T00:00:00-05:00",
+   "allDay": true,
+   "place": "Offsite",
+   "notes": "Catolic Cathedral Ball - Ritz Carlton",
+   "links": [],
+   "category": "other"
+  },
+  {
+   "id": "CSVConvert666199ae737f2e947f67b8a95a102700@20270130",
+   "title": "That Man is You",
+   "start": "2027-01-30T07:00:00-05:00",
+   "end": "2027-01-30T08:30:00-05:00",
+   "allDay": false,
+   "place": "St. Joseph's Hall",
+   "notes": "",
+   "links": [],
+   "category": "faith"
+  },
+  {
+   "id": "CSVConvertd779c3fee492bfaea51e6ebf73b82e74@20270201",
+   "title": "COR Mass for Men",
+   "start": "2027-02-01T05:30:00-05:00",
+   "end": "2027-02-01T06:00:00-05:00",
+   "allDay": false,
+   "place": "Church",
+   "notes": "All Family Members Welcome",
+   "links": [],
+   "category": "faith"
+  },
+  {
+   "id": "CSVConvertd45c480357fd1fe4e9e3cf7b028cd0dc@20270202",
+   "title": "COR/E&FF Event",
+   "start": "2027-02-02T19:00:00-05:00",
+   "end": "2027-02-02T20:00:00-05:00",
+   "allDay": false,
+   "place": "Farrell Hall",
+   "notes": "Followed By Meeting in Farrell Hall",
+   "links": [],
+   "category": "other"
+  },
+  {
+   "id": "s0f588a22aj1am9dn626hcmbus@google.com@20270205",
+   "title": "Polar Plunge",
+   "start": "2027-02-05T17:00:00-05:00",
+   "end": "2027-02-05T18:00:00-05:00",
+   "allDay": false,
+   "place": "3001 Atlantic Ave, Virginia Beach, VA 23451, USA",
+   "notes": "The 5K run walk begins at 7 PM on the boardwalk. The polar plunge is Saturday",
+   "links": [],
+   "category": "community"
+  },
+  {
+   "id": "CSVConvert7ae63de54bcdc7558f1f33cb9029f705@20270205",
+   "title": "1st Friday Adoration",
+   "start": "2027-02-05T19:00:00-05:00",
+   "end": "2027-02-06T07:00:00-05:00",
+   "allDay": false,
+   "place": "Church",
+   "notes": "",
+   "links": [],
+   "category": "faith"
+  },
+  {
+   "id": "0obd47nifocrknprscb5eg1d40_R20250405T003000@google.com@20270205",
+   "title": "First Friday Adoration",
+   "start": "2027-02-05T20:30:00-05:00",
+   "end": "2027-02-06T09:00:00-05:00",
+   "allDay": false,
+   "place": "St. Mary of Sorrows Catholic Church, 10500 Zion Dr, Fairfax, VA 22032, USA",
+   "notes": "Sign up on Council website for at least 1 hour with our LORD.\nEucharistic Adoration · St. Mary of Sorrows Parish, Fairfax, VA \n*Please sign up so we know what hours are covered.",
+   "links": [
+    {
+     "text": "Eucharistic Adoration · St. Mary of Sorrows Parish, Fairfax, VA",
+     "url": "https://smos.weadorehim.com/"
+    }
+   ],
+   "category": "faith"
+  },
+  {
+   "id": "CSVConvertec4a2ee5d6ea6cb98466a14fc37944f4@20270206",
+   "title": "State Sponsored Event",
+   "start": "2027-02-06T00:00:00-05:00",
+   "end": "2027-02-06T00:00:00-05:00",
+   "allDay": true,
+   "place": "Offsite",
+   "notes": "Special Olympics Polar Plunge - Virginia Beach",
+   "links": [],
+   "category": "other"
+  },
+  {
+   "id": "CSVConvert5114b752b999c3b9697fcb4c427fd3cb@20270206",
+   "title": "That Man is You",
+   "start": "2027-02-06T07:00:00-05:00",
+   "end": "2027-02-06T08:30:00-05:00",
+   "allDay": false,
+   "place": "St. Joseph's Hall",
+   "notes": "",
+   "links": [],
+   "category": "faith"
+  },
+  {
+   "id": "j7mbqvg4inl05f4ubf7eooj4e8@google.com@20270206",
+   "title": "Polar Plunge",
+   "start": "2027-02-06T10:00:00-05:00",
+   "end": "2027-02-06T14:00:00-05:00",
+   "allDay": false,
+   "place": "Hilton Virginia Beach Oceanfront, 3001 Atlantic Ave, Virginia Beach, VA 23451, USA",
+   "notes": "The plunge itself takes place at 1 PM but the tent is open from 10 AM to 2 PM. Registration is at the Hilton Virginia Beach oceanfront on the second floor.",
+   "links": [],
+   "category": "community"
+  },
+  {
+   "id": "CSVConvertac06b9668bafef0f00e563e26b03c0e9@20270207",
+   "title": "Recruiting Blitz",
+   "start": "2027-02-07T00:00:00-05:00",
+   "end": "2027-02-07T00:00:00-05:00",
+   "allDay": true,
+   "place": "Church",
+   "notes": "",
+   "links": [],
+   "category": "other"
+  },
+  {
+   "id": "CSVConvert97d88a9330e9ac88d8ab96ad210cbb3d@20270210",
+   "title": "Ash Wednesday",
+   "start": "2027-02-10T00:00:00-05:00",
+   "end": "2027-02-10T00:00:00-05:00",
+   "allDay": true,
+   "place": "",
+   "notes": "",
+   "links": [],
+   "category": "other"
+  },
+  {
+   "id": "CSVConvertb1d9bc81b6722adfa41a3948e2ac5208@20270212",
+   "title": "Good Friday",
+   "start": "2027-02-12T00:00:00-05:00",
+   "end": "2027-02-12T00:00:00-05:00",
+   "allDay": true,
+   "place": "",
+   "notes": "",
+   "links": [],
+   "category": "other"
+  },
+  {
+   "id": "CSVConvert59796a64ff89a630f8d49a0c06bb1cea@20270212",
+   "title": "Lenten Fish Fry #1",
+   "start": "2027-02-12T18:00:00-05:00",
+   "end": "2027-02-12T20:00:00-05:00",
+   "allDay": false,
+   "place": "Farrell Hall",
+   "notes": "",
+   "links": [],
+   "category": "family"
+  },
+  {
+   "id": "CSVConvert2671237273f1bfeb7b02341715a944e6@20270213",
+   "title": "That Man is You",
+   "start": "2027-02-13T07:00:00-05:00",
+   "end": "2027-02-13T08:30:00-05:00",
+   "allDay": false,
+   "place": "St. Joseph's Hall",
+   "notes": "",
+   "links": [],
+   "category": "faith"
+  },
+  {
+   "id": "7rmdor9kaob0lmcv4hl3rp0np0_R20241109T123000@google.com@20270213",
+   "title": "Men's Ministry",
+   "start": "2027-02-13T07:30:00-05:00",
+   "end": "2027-02-13T09:00:00-05:00",
+   "allDay": false,
+   "place": "Old St. Mary of Sorrows Hall",
+   "notes": "The St. Mary of Sorrows Men’s Ministry provides fraternal support to help Catholic men rise to the unique challenges that fathers, husbands and community members face in the modern world. Join other Catholic men in reading and reflecting on Sunday scriptures, and discussing how it relates to our lives, and how bringing Christ into our lives helps us become better Catholic men, husbands, dads, fami",
+   "links": [],
+   "category": "faith"
+  },
+  {
+   "id": "CSVConvert8c477a9ee74316c524236adfdbc2f745@20270213",
+   "title": "Spaghetti Dinner",
+   "start": "2027-02-13T18:00:00-05:00",
+   "end": "2027-02-13T19:30:00-05:00",
+   "allDay": false,
+   "place": "Farrell Hall",
+   "notes": "",
+   "links": [],
+   "category": "family"
+  },
+  {
+   "id": "CSVConvert9062c1b0efe822bcaa68f5d09bfec07d@20270214",
+   "title": "Pancake Breakfast",
+   "start": "2027-02-14T08:00:00-05:00",
+   "end": "2027-02-14T11:30:00-05:00",
+   "allDay": false,
+   "place": "Farrell Hall",
+   "notes": "",
+   "links": [],
+   "category": "family"
+  },
+  {
+   "id": "0r6729c7q1u52sfqouu4l39et0@google.com@20270214",
+   "title": "District 14  Free-throw Challenge",
+   "start": "2027-02-14T19:00:00-05:00",
+   "end": "2027-02-14T21:00:00-05:00",
+   "allDay": false,
+   "place": "Holy Spirit Roman Catholic Church, 5121 Woodland Way, Annandale, VA 22003, USA",
+   "notes": "",
+   "links": [],
+   "category": "other"
+  },
+  {
+   "id": "CSVConvertdea0db30138b189bf706cc5a71b4a8c7@20270216",
+   "title": "Exemplification",
+   "start": "2027-02-16T19:00:00-05:00",
+   "end": "2027-02-16T21:00:00-05:00",
+   "allDay": false,
+   "place": "Historic Church",
+   "notes": "Followed by Meeting in OSMH",
+   "links": [],
+   "category": "council"
+  },
+  {
+   "id": "CSVConvert8e8c42d31d78f1a39c28c4fefcb4f225@20270219",
+   "title": "Lenten Fish Fry #2",
+   "start": "2027-02-19T18:00:00-05:00",
+   "end": "2027-02-19T20:00:00-05:00",
+   "allDay": false,
+   "place": "Farrell Hall",
+   "notes": "",
+   "links": [],
+   "category": "family"
+  },
+  {
+   "id": "CSVConvert0dc08af372ece571e7e48ee59eb382a2@20270219",
+   "title": "Sacred Heart of Jesus Holy Hr",
+   "start": "2027-02-19T19:00:00-05:00",
+   "end": "2027-02-19T20:00:00-05:00",
+   "allDay": false,
+   "place": "Church",
+   "notes": "All Family Members Welcome",
+   "links": [],
+   "category": "faith"
+  },
+  {
+   "id": "CSVConvert1f934332a2838e2cc1d9ca4a77824c5f@20270220",
+   "title": "That Man is You",
+   "start": "2027-02-20T07:00:00-05:00",
+   "end": "2027-02-20T08:30:00-05:00",
+   "allDay": false,
+   "place": "St. Joseph's Hall",
+   "notes": "",
+   "links": [],
+   "category": "faith"
+  },
+  {
+   "id": "CSVConvertfd6be5ee287da2895f164f800628ff0c@20270220",
+   "title": "BINGO",
+   "start": "2027-02-20T18:30:00-05:00",
+   "end": "2027-02-20T20:30:00-05:00",
+   "allDay": false,
+   "place": "Farrell Hall",
+   "notes": "",
+   "links": [],
+   "category": "family"
+  },
+  {
+   "id": "CSVConvert77dca4e52b8d64d29c929e1e2f571e00@20270226",
+   "title": "Lenten Fish Fry #3",
+   "start": "2027-02-26T18:00:00-05:00",
+   "end": "2027-02-26T20:00:00-05:00",
+   "allDay": false,
+   "place": "Farrell Hall",
+   "notes": "",
+   "links": [],
+   "category": "family"
+  },
+  {
+   "id": "CSVConvertff6112c6d09b424f751a04896db0c225@20270227",
+   "title": "Diaper Collection",
+   "start": "2027-02-27T00:00:00-05:00",
+   "end": "2027-02-27T00:00:00-05:00",
+   "allDay": true,
+   "place": "Parish Center",
+   "notes": "",
+   "links": [],
+   "category": "life"
+  },
+  {
+   "id": "2jducqh83g80t27fs52oo3l2is_R20241228@google.com@20270227",
+   "title": "Diaper, Wipes & Formula Collection",
+   "start": "2027-02-27T00:00:00-05:00",
+   "end": "2027-02-28T00:00:00-05:00",
+   "allDay": true,
+   "place": "SMOS Parish Center, 5222 Sideburn Rd, Fairfax, VA 22032, USA",
+   "notes": "Council 8600 sponsors a monthly diapers, wipes, and formula collection to support the St Mary's food closet and MARiAH Center. \nThe MaRiH Center is Here to Help - The MaRiH Center offers support to pregnant women and families with young children. \nOur efforts support the Knight of Columbus initiative, Aid and Assistance After Pregnancy (ASAP) which helps mothers and babies by supporting pregnancy ",
+   "links": [
+    {
+     "text": "The MaRiH Center is Here to Help - The MaRiH Center",
+     "url": "https://marih.org/"
+    }
+   ],
+   "category": "life"
+  },
+  {
+   "id": "CSVConvertfe71c12a97647dbb21afeb49a2dc01d9@20270227",
+   "title": "That Man is You",
+   "start": "2027-02-27T07:00:00-05:00",
+   "end": "2027-02-27T08:30:00-05:00",
+   "allDay": false,
+   "place": "St. Joseph's Hall",
+   "notes": "",
+   "links": [],
+   "category": "faith"
+  },
+  {
+   "id": "eqab8m555kui57t97gjkns8te4@google.com@20270227",
+   "title": "Polar plunge Leesylvania State Park",
+   "start": "2027-02-27T11:00:00-05:00",
+   "end": "2027-02-27T14:30:00-05:00",
+   "allDay": false,
+   "place": "Leesylvania State Park Visitor Center, 1225 Daniel K Ludwig Dr, Woodbridge, VA 22191, USA",
+   "notes": "$100 entry fee to plunge. Check in at 11 am. Registration closes at 1 PM. The plunge takes place at approximately 1:15 PM.",
+   "links": [],
+   "category": "community"
+  },
+  {
+   "id": "CSVConverta4382debef916e7a9741fae15356c6ee@20270301",
+   "title": "COR Mass for Men",
+   "start": "2027-03-01T05:30:00-05:00",
+   "end": "2027-03-01T06:00:00-05:00",
+   "allDay": false,
+   "place": "Church",
+   "notes": "All Family Members Welcome",
+   "links": [],
+   "category": "faith"
+  },
+  {
+   "id": "CSVConvert9d556f3840a0fb7bbc03fd5fdd81ba65@20270302",
+   "title": "Council Combined Meeting",
+   "start": "2027-03-02T19:00:00-05:00",
+   "end": "2027-03-02T21:00:00-05:00",
+   "allDay": false,
+   "place": "Old Saint Mary's Hall",
+   "notes": "",
+   "links": [],
+   "category": "council"
+  }
+ ],
+ "signups": [
+  {
+   "id": 67116342,
+   "title": "Fall 2026 KOVAR Drive",
+   "url": "https://www.signupgenius.com/go/20F0944AAAC2FA4FF2-67116342-fall",
+   "start": "2026-11-14T18:00:00-05:00",
+   "end": "2026-11-15T18:00:00-05:00",
+   "kind": "volunteers",
+   "open": 25,
+   "slots": [
+    {
+     "item": "Church",
+     "start": "2026-11-14T18:00:00-05:00",
+     "end": "2026-11-14T18:20:00-05:00",
+     "open": 5
+    },
+    {
+     "item": "Church",
+     "start": "2026-11-15T08:30:00-05:00",
+     "end": "2026-11-15T08:50:00-05:00",
+     "open": 5
+    },
+    {
+     "item": "Church",
+     "start": "2026-11-15T10:30:00-05:00",
+     "end": "2026-11-15T10:50:00-05:00",
+     "open": 5
+    },
+    {
+     "item": "Church",
+     "start": "2026-11-15T12:30:00-05:00",
+     "end": "2026-11-15T12:50:00-05:00",
+     "open": 5
+    },
+    {
+     "item": "Church",
+     "start": "2026-11-15T18:00:00-05:00",
+     "end": "2026-11-15T18:20:00-05:00",
+     "open": 5
+    }
+   ],
+   "events": [
+    "1rf3jj14k5v8kkou27ktm2s7ck@google.com@20261114",
+    "9apn0om32obvo9dkf5ugnn216g@google.com@20261115"
+   ]
+  },
+  {
+   "id": 67169225,
+   "title": "Honor Guard for Funeral of BK Brian Moynihan - Monday, 09 Nov 2026",
+   "url": "https://www.signupgenius.com/go/20F0944AAAC2FA4FF2-67169225-honor",
+   "start": "2026-11-08T16:00:00-05:00",
+   "end": "2026-11-08T17:30:00-05:00",
+   "kind": "volunteers",
+   "open": 19,
+   "slots": [
+    {
+     "item": "Viewing/Wake Support",
+     "start": "2026-11-08T16:00:00-05:00",
+     "end": "2026-11-08T18:00:00-05:00",
+     "open": 9
+    },
+    {
+     "item": "Rosary",
+     "start": "2026-11-08T17:30:00-05:00",
+     "end": "2026-11-08T18:00:00-05:00",
+     "open": 10
+    }
+   ],
+   "events": [
+    "mng2fdbv7nl34fvfsbid4d85p0@google.com@20261108"
+   ]
+  },
+  {
+   "id": 67116221,
+   "title": "Honor Guard for Memorial Chalice Ceremony 2026",
+   "url": "https://www.signupgenius.com/go/20F0944AAAC2FA4FF2-67116221-honor",
+   "start": "2026-11-21T11:30:00-05:00",
+   "end": "2026-11-21T11:30:00-05:00",
+   "kind": "volunteers",
+   "open": 12,
+   "slots": [
+    {
+     "item": "Color Guard - Memorial Chalice Mass",
+     "start": "2026-11-21T11:30:00-05:00",
+     "end": "2026-11-21T12:30:00-05:00",
+     "open": 12
+    }
+   ],
+   "events": [
+    "qirfnpu1q65s429inl7av0vl08@google.com@20261121"
+   ]
+  },
+  {
+   "id": 66987395,
+   "title": "Veterans Day Luncheon - Mission BBQ",
+   "url": "https://www.signupgenius.com/go/20F0944AAAC2FA4FF2-66987395-veterans",
+   "start": "2026-11-11T10:30:00-05:00",
+   "end": "2026-11-11T10:30:00-05:00",
+   "kind": "places",
+   "open": 73,
+   "slots": [
+    {
+     "item": "I will attend",
+     "start": "2026-11-11T10:30:00-05:00",
+     "end": "2026-11-11T12:00:00-05:00",
+     "open": 73
+    }
+   ],
+   "events": [
+    "muvd1fa0jain8qpe8vhj74g7ig@google.com@20261111"
+   ]
+  }
+ ]
+}
