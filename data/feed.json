@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T17:26:46-05:00",
+ "generated": "2026-11-03T21:59:08-05:00",
  "timezone": "America/New_York",
  "source": {
   "calendar": "Council 8600 Google Calendar",
@@ -188,13 +188,13 @@
     "id": 66987395,
     "url": "https://www.signupgenius.com/go/20F0944AAAC2FA4FF2-66987395-veterans",
     "kind": "places",
-    "open": 73,
+    "open": 71,
     "slots": [
      {
       "item": "I will attend",
       "start": "2026-11-11T10:30:00-05:00",
       "end": "2026-11-11T12:00:00-05:00",
-      "open": 73
+      "open": 71
      }
     ]
    }
@@ -271,13 +271,13 @@
     "id": 67116342,
     "url": "https://www.signupgenius.com/go/20F0944AAAC2FA4FF2-67116342-fall",
     "kind": "volunteers",
-    "open": 20,
+    "open": 18,
     "slots": [
      {
       "item": "Church",
       "start": "2026-11-15T08:30:00-05:00",
       "end": "2026-11-15T08:50:00-05:00",
-      "open": 5
+      "open": 3
      },
      {
       "item": "Church",
@@ -430,15 +430,15 @@
    "category": "life"
   },
   {
-   "id": "b30g3dvbq845c72aviu7hf37f0@google.com@20261129",
-   "title": "Christmas tree work",
-   "start": "2026-11-29T15:00:00-05:00",
-   "end": "2026-11-29T19:00:00-05:00",
+   "id": "jrddh6ddn7tlcp023k81knemeo@google.com@20261129",
+   "title": "Advent Sevice",
+   "start": "2026-11-29T19:00:00-05:00",
+   "end": "2026-11-29T20:00:00-05:00",
    "allDay": false,
-   "place": "",
-   "notes": "",
+   "place": "SMOS Parish Center - St Joseph Hall",
+   "notes": "Hosted by Bob and Barbara Mahiques’s. An hour of prayer song and meditation.\nBeverages provided, please bring your own cookies to share.",
    "links": [],
-   "category": "community"
+   "category": "other"
   },
   {
    "id": "CSVConvertc31734e9b4b8c9866705eed04f349384@20261201",
@@ -1282,7 +1282,7 @@
    "start": "2026-11-14T18:00:00-05:00",
    "end": "2026-11-15T18:00:00-05:00",
    "kind": "volunteers",
-   "open": 25,
+   "open": 23,
    "slots": [
     {
      "item": "Church",
@@ -1294,7 +1294,7 @@
      "item": "Church",
      "start": "2026-11-15T08:30:00-05:00",
      "end": "2026-11-15T08:50:00-05:00",
-     "open": 5
+     "open": 3
     },
     {
      "item": "Church",
@@ -1373,13 +1373,13 @@
    "start": "2026-11-11T10:30:00-05:00",
    "end": "2026-11-11T10:30:00-05:00",
    "kind": "places",
-   "open": 73,
+   "open": 71,
    "slots": [
     {
      "item": "I will attend",
      "start": "2026-11-11T10:30:00-05:00",
      "end": "2026-11-11T12:00:00-05:00",
-     "open": 73
+     "open": 71
     }
    ],
    "events": [
