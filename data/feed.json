@@ -1,22 +1,11 @@
 {
- "generated": "2026-11-03T21:59:08-05:00",
+ "generated": "2026-11-04T13:36:32-05:00",
  "timezone": "America/New_York",
  "source": {
   "calendar": "Council 8600 Google Calendar",
   "signups": "SignUpGenius"
  },
  "events": [
-  {
-   "id": "CSVConvertd2f532432071b5b48211337884cde5da@20261103",
-   "title": "Council Combined Meeting",
-   "start": "2026-11-03T19:00:00-05:00",
-   "end": "2026-11-03T21:00:00-05:00",
-   "allDay": false,
-   "place": "Old Saint Mary's Hall",
-   "notes": "",
-   "links": [],
-   "category": "council"
-  },
   {
    "id": "fciufui6iqkhq2gd2gjolko4pk@google.com@20261106",
    "title": "Set Up for Christmas Tree Stands",
@@ -124,19 +113,19 @@
     "id": 67169225,
     "url": "https://www.signupgenius.com/go/20F0944AAAC2FA4FF2-67169225-honor",
     "kind": "volunteers",
-    "open": 19,
+    "open": 15,
     "slots": [
      {
       "item": "Viewing/Wake Support",
       "start": "2026-11-08T16:00:00-05:00",
       "end": "2026-11-08T18:00:00-05:00",
-      "open": 9
+      "open": 7
      },
      {
       "item": "Rosary",
       "start": "2026-11-08T17:30:00-05:00",
       "end": "2026-11-08T18:00:00-05:00",
-      "open": 10
+      "open": 8
      }
     ]
    }
@@ -1321,32 +1310,6 @@
    ]
   },
   {
-   "id": 67169225,
-   "title": "Honor Guard for Funeral of BK Brian Moynihan - Monday, 09 Nov 2026",
-   "url": "https://www.signupgenius.com/go/20F0944AAAC2FA4FF2-67169225-honor",
-   "start": "2026-11-08T16:00:00-05:00",
-   "end": "2026-11-08T17:30:00-05:00",
-   "kind": "volunteers",
-   "open": 19,
-   "slots": [
-    {
-     "item": "Viewing/Wake Support",
-     "start": "2026-11-08T16:00:00-05:00",
-     "end": "2026-11-08T18:00:00-05:00",
-     "open": 9
-    },
-    {
-     "item": "Rosary",
-     "start": "2026-11-08T17:30:00-05:00",
-     "end": "2026-11-08T18:00:00-05:00",
-     "open": 10
-    }
-   ],
-   "events": [
-    "mng2fdbv7nl34fvfsbid4d85p0@google.com@20261108"
-   ]
-  },
-  {
    "id": 67116221,
    "title": "Honor Guard for Memorial Chalice Ceremony 2026",
    "url": "https://www.signupgenius.com/go/20F0944AAAC2FA4FF2-67116221-honor",
@@ -1364,6 +1327,32 @@
    ],
    "events": [
     "qirfnpu1q65s429inl7av0vl08@google.com@20261121"
+   ]
+  },
+  {
+   "id": 67169225,
+   "title": "Honor Guard for Viewing of BK Brian Moynihan - Sunday, 08 November",
+   "url": "https://www.signupgenius.com/go/20F0944AAAC2FA4FF2-67169225-honor",
+   "start": "2026-11-08T16:00:00-05:00",
+   "end": "2026-11-08T17:30:00-05:00",
+   "kind": "volunteers",
+   "open": 15,
+   "slots": [
+    {
+     "item": "Viewing/Wake Support",
+     "start": "2026-11-08T16:00:00-05:00",
+     "end": "2026-11-08T18:00:00-05:00",
+     "open": 7
+    },
+    {
+     "item": "Rosary",
+     "start": "2026-11-08T17:30:00-05:00",
+     "end": "2026-11-08T18:00:00-05:00",
+     "open": 8
+    }
+   ],
+   "events": [
+    "mng2fdbv7nl34fvfsbid4d85p0@google.com@20261108"
    ]
   },
   {
