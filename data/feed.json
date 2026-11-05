@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T13:36:32-05:00",
+ "generated": "2026-11-05T13:41:27-05:00",
  "timezone": "America/New_York",
  "source": {
   "calendar": "Council 8600 Google Calendar",
@@ -177,13 +177,13 @@
     "id": 66987395,
     "url": "https://www.signupgenius.com/go/20F0944AAAC2FA4FF2-66987395-veterans",
     "kind": "places",
-    "open": 71,
+    "open": 69,
     "slots": [
      {
       "item": "I will attend",
       "start": "2026-11-11T10:30:00-05:00",
       "end": "2026-11-11T12:00:00-05:00",
-      "open": 71
+      "open": 69
      }
     ]
    }
@@ -1362,13 +1362,13 @@
    "start": "2026-11-11T10:30:00-05:00",
    "end": "2026-11-11T10:30:00-05:00",
    "kind": "places",
-   "open": 71,
+   "open": 69,
    "slots": [
     {
      "item": "I will attend",
      "start": "2026-11-11T10:30:00-05:00",
      "end": "2026-11-11T12:00:00-05:00",
-     "open": 71
+     "open": 69
     }
    ],
    "events": [
