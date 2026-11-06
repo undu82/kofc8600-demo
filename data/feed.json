@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T13:41:27-05:00",
+ "generated": "2026-11-06T02:53:13-05:00",
  "timezone": "America/New_York",
  "source": {
   "calendar": "Council 8600 Google Calendar",
@@ -1261,6 +1261,44 @@
    "notes": "",
    "links": [],
    "category": "council"
+  },
+  {
+   "id": "CSVConvert4c60e8d48247672380de3a156c280dcd@20270305",
+   "title": "Lenten Fish Fry #4",
+   "start": "2027-03-05T18:00:00-05:00",
+   "end": "2027-03-05T20:00:00-05:00",
+   "allDay": false,
+   "place": "Farrell Hall",
+   "notes": "",
+   "links": [],
+   "category": "family"
+  },
+  {
+   "id": "CSVConvert354f11c1efdb5d2a929c6344e2226519@20270305",
+   "title": "1st Friday Adoration",
+   "start": "2027-03-05T19:00:00-05:00",
+   "end": "2027-03-06T07:00:00-05:00",
+   "allDay": false,
+   "place": "Church",
+   "notes": "",
+   "links": [],
+   "category": "faith"
+  },
+  {
+   "id": "0obd47nifocrknprscb5eg1d40_R20250405T003000@google.com@20270305",
+   "title": "First Friday Adoration",
+   "start": "2027-03-05T20:30:00-05:00",
+   "end": "2027-03-06T09:00:00-05:00",
+   "allDay": false,
+   "place": "St. Mary of Sorrows Catholic Church, 10500 Zion Dr, Fairfax, VA 22032, USA",
+   "notes": "Sign up on Council website for at least 1 hour with our LORD.\nEucharistic Adoration · St. Mary of Sorrows Parish, Fairfax, VA \n*Please sign up so we know what hours are covered.",
+   "links": [
+    {
+     "text": "Eucharistic Adoration · St. Mary of Sorrows Parish, Fairfax, VA",
+     "url": "https://smos.weadorehim.com/"
+    }
+   ],
+   "category": "faith"
   }
  ],
  "signups": [
