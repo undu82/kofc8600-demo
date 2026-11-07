@@ -1,1 +1,1 @@
-2026-11-07, Record the WordPress.com sign-in fixes
+2026-11-07, Merge deploy-review: import file and pre-launch review fixes
