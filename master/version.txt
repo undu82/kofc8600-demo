@@ -1,1 +1,1 @@
-2026-11-07, Hold the members plugin on WordPress.com until sign-in is fixed
+2026-11-07, Record the WordPress.com sign-in fixes
