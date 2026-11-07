@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T04:57:46-05:00",
+ "generated": "2026-11-07T15:51:13-05:00",
  "timezone": "America/New_York",
  "source": {
   "calendar": "Council 8600 Google Calendar",
@@ -69,8 +69,8 @@
   {
    "id": "CSVConvertd397293ae2c041d57fd38b5eded28bd1@20261107",
    "title": "Spaghetti Dinner",
-   "start": "2026-11-07T22:00:00-05:00",
-   "end": "2026-11-07T23:30:00-05:00",
+   "start": "2026-11-07T18:00:00-05:00",
+   "end": "2026-11-07T19:30:00-05:00",
    "allDay": false,
    "place": "Farrell Hall",
    "notes": "Show time for “set-up” helpers NLT 5:00 pm",
