@@ -1,22 +1,11 @@
 {
- "generated": "2026-11-06T02:53:13-05:00",
+ "generated": "2026-11-07T04:57:46-05:00",
  "timezone": "America/New_York",
  "source": {
   "calendar": "Council 8600 Google Calendar",
   "signups": "SignUpGenius"
  },
  "events": [
-  {
-   "id": "fciufui6iqkhq2gd2gjolko4pk@google.com@20261106",
-   "title": "Set Up for Christmas Tree Stands",
-   "start": "2026-11-06T10:00:00-05:00",
-   "end": "2026-11-06T12:30:00-05:00",
-   "allDay": false,
-   "place": "Old St Mary's Catholic Church, 5612 Ox Rd, Fairfax Station, VA 22039, USA",
-   "notes": "",
-   "links": [],
-   "category": "community"
-  },
   {
    "id": "CSVConvertf667f123ae8e1457eaa5feb9a1fe6d1f@20261106",
    "title": "1st Friday Adoration",
@@ -1299,6 +1288,39 @@
     }
    ],
    "category": "faith"
+  },
+  {
+   "id": "CSVConvert7358ec242c1dbd568bc8d8743ea9e0d2@20270306",
+   "title": "That Man is You",
+   "start": "2027-03-06T07:00:00-05:00",
+   "end": "2027-03-06T08:30:00-05:00",
+   "allDay": false,
+   "place": "St. Joseph's Hall",
+   "notes": "",
+   "links": [],
+   "category": "faith"
+  },
+  {
+   "id": "CSVConvert4a4f12d963e27bafee8779c1e40361ea@20270306",
+   "title": "Route 123 Cleanup",
+   "start": "2027-03-06T08:00:00-05:00",
+   "end": "2027-03-06T10:00:00-05:00",
+   "allDay": false,
+   "place": "Old Saint Mary's Hall",
+   "notes": "",
+   "links": [],
+   "category": "community"
+  },
+  {
+   "id": "CSVConvertc01f55099716bf8191447c75a490a070@20270306",
+   "title": "Spaghetti Dinner",
+   "start": "2027-03-06T18:00:00-05:00",
+   "end": "2027-03-06T19:30:00-05:00",
+   "allDay": false,
+   "place": "Farrell Hall",
+   "notes": "",
+   "links": [],
+   "category": "family"
   }
  ],
  "signups": [
