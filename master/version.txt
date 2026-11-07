@@ -1,1 +1,1 @@
-2026-11-07, Merge deploy-review: import file and pre-launch review fixes
+2026-11-07, Merge wpcom-button: Google sign-in through WordPress.com
