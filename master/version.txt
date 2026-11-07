@@ -1,1 +1,1 @@
-2026-11-07, Plan brothers' sign-in with WordPress.com login
+2026-11-07, Hold the members plugin on WordPress.com until sign-in is fixed
