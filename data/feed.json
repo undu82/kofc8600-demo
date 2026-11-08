@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T15:51:13-05:00",
+ "generated": "2026-11-07T19:29:18-05:00",
  "timezone": "America/New_York",
  "source": {
   "calendar": "Council 8600 Google Calendar",
@@ -102,13 +102,13 @@
     "id": 67169225,
     "url": "https://www.signupgenius.com/go/20F0944AAAC2FA4FF2-67169225-honor",
     "kind": "volunteers",
-    "open": 15,
+    "open": 14,
     "slots": [
      {
       "item": "Viewing/Wake Support",
       "start": "2026-11-08T16:00:00-05:00",
       "end": "2026-11-08T18:00:00-05:00",
-      "open": 7
+      "open": 6
      },
      {
       "item": "Rosary",
@@ -1396,13 +1396,13 @@
    "start": "2026-11-08T16:00:00-05:00",
    "end": "2026-11-08T17:30:00-05:00",
    "kind": "volunteers",
-   "open": 15,
+   "open": 14,
    "slots": [
     {
      "item": "Viewing/Wake Support",
      "start": "2026-11-08T16:00:00-05:00",
      "end": "2026-11-08T18:00:00-05:00",
-     "open": 7
+     "open": 6
     },
     {
      "item": "Rosary",
