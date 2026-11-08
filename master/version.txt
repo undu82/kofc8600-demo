@@ -1,1 +1,1 @@
-2026-11-07, Merge site-icon: emblem as a 512 x 512 site icon
+2026-11-07, Merge owners-contributor: program owners on WordPress's Contributor role
