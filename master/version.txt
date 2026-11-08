@@ -1,1 +1,1 @@
-2026-11-07, Merge import-links: imported PDFs point at the Media Library
+2026-11-07, Merge menu-by-address: tab menu survives page number changes
