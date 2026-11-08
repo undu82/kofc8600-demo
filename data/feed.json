@@ -1,82 +1,11 @@
 {
- "generated": "2026-11-07T19:29:18-05:00",
+ "generated": "2026-11-08T02:15:06-05:00",
  "timezone": "America/New_York",
  "source": {
   "calendar": "Council 8600 Google Calendar",
   "signups": "SignUpGenius"
  },
  "events": [
-  {
-   "id": "CSVConvertf667f123ae8e1457eaa5feb9a1fe6d1f@20261106",
-   "title": "1st Friday Adoration",
-   "start": "2026-11-06T19:00:00-05:00",
-   "end": "2026-11-07T07:00:00-05:00",
-   "allDay": false,
-   "place": "Church",
-   "notes": "",
-   "links": [],
-   "category": "faith"
-  },
-  {
-   "id": "0obd47nifocrknprscb5eg1d40_R20250405T003000@google.com@20261106",
-   "title": "First Friday Adoration",
-   "start": "2026-11-06T20:30:00-05:00",
-   "end": "2026-11-07T09:00:00-05:00",
-   "allDay": false,
-   "place": "St. Mary of Sorrows Catholic Church, 10500 Zion Dr, Fairfax, VA 22032, USA",
-   "notes": "Sign up on Council website for at least 1 hour with our LORD.\nEucharistic Adoration · St. Mary of Sorrows Parish, Fairfax, VA \n*Please sign up so we know what hours are covered.",
-   "links": [
-    {
-     "text": "Eucharistic Adoration · St. Mary of Sorrows Parish, Fairfax, VA",
-     "url": "https://smos.weadorehim.com/"
-    }
-   ],
-   "category": "faith"
-  },
-  {
-   "id": "CSVConvert87090878a8129282429165ae82300c42@20261107",
-   "title": "State Sponsored Event",
-   "start": "2026-11-07T00:00:00-05:00",
-   "end": "2026-11-07T00:00:00-05:00",
-   "allDay": true,
-   "place": "Offsite",
-   "notes": "Special Olympics Fall Games Virginia Beach",
-   "links": [],
-   "category": "other"
-  },
-  {
-   "id": "CSVConvertf5fc5efdfc6c8e0b9be979342e013868@20261107",
-   "title": "That Man is You",
-   "start": "2026-11-07T07:00:00-05:00",
-   "end": "2026-11-07T08:30:00-05:00",
-   "allDay": false,
-   "place": "St. Joseph's Hall",
-   "notes": "",
-   "links": [],
-   "category": "faith"
-  },
-  {
-   "id": "9s8t69o6f7k5dmoc3sui9sp5r8@google.com@20261107",
-   "title": "Soccer Challenge",
-   "start": "2026-11-07T09:00:00-05:00",
-   "end": "2026-11-07T14:00:00-05:00",
-   "allDay": false,
-   "place": "Benedictine College Preparatory, 12829 River Rd, Richmond, VA 23238, USA",
-   "notes": "Point of contact! Louis Federico, 407 Greentree Cove Newport News, Virginia",
-   "links": [],
-   "category": "community"
-  },
-  {
-   "id": "CSVConvertd397293ae2c041d57fd38b5eded28bd1@20261107",
-   "title": "Spaghetti Dinner",
-   "start": "2026-11-07T18:00:00-05:00",
-   "end": "2026-11-07T19:30:00-05:00",
-   "allDay": false,
-   "place": "Farrell Hall",
-   "notes": "Show time for “set-up” helpers NLT 5:00 pm",
-   "links": [],
-   "category": "family"
-  },
   {
    "id": "CSVConvertca23a4d8866f5ce516f5449a6c77eae4@20261108",
    "title": "Pancake Breakfast",
@@ -1316,6 +1245,28 @@
    "title": "Spaghetti Dinner",
    "start": "2027-03-06T18:00:00-05:00",
    "end": "2027-03-06T19:30:00-05:00",
+   "allDay": false,
+   "place": "Farrell Hall",
+   "notes": "",
+   "links": [],
+   "category": "family"
+  },
+  {
+   "id": "e6v50vc5d64jd5gbttgov3gpr4@google.com@20270307",
+   "title": "Blood drive",
+   "start": "2027-03-07T08:00:00-05:00",
+   "end": "2027-03-07T10:00:00-05:00",
+   "allDay": false,
+   "place": "Farrrl Hall",
+   "notes": "",
+   "links": [],
+   "category": "community"
+  },
+  {
+   "id": "CSVConvert8a6d111f8b942f8f27d906461d3a0a33@20270307",
+   "title": "Pancake Breakfast",
+   "start": "2027-03-07T08:00:00-05:00",
+   "end": "2027-03-07T11:30:00-05:00",
    "allDay": false,
    "place": "Farrell Hall",
    "notes": "",
