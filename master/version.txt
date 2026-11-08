@@ -1,1 +1,1 @@
-2026-11-07, Merge menu-by-address: tab menu survives page number changes
+2026-11-07, Record Tim's answers: mail forwards, WP Engine, the DNS switch
