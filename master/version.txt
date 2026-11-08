@@ -1,1 +1,1 @@
-2026-11-07, Merge wpcom-only: WordPress.com sign-in with required two-step
+2026-11-07, Merge site-icon: emblem as a 512 x 512 site icon
