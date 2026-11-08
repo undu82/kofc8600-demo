@@ -1,1 +1,1 @@
-2026-11-07, Merge owners-contributor: program owners on WordPress's Contributor role
+2026-11-07, Merge no-prototype-notice: no prototype banner on the live site
