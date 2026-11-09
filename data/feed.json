@@ -1,53 +1,11 @@
 {
- "generated": "2026-11-08T12:00:39-05:00",
+ "generated": "2026-11-09T02:53:32-05:00",
  "timezone": "America/New_York",
  "source": {
   "calendar": "Council 8600 Google Calendar",
   "signups": "SignUpGenius"
  },
  "events": [
-  {
-   "id": "CSVConvertca23a4d8866f5ce516f5449a6c77eae4@20261108",
-   "title": "Pancake Breakfast",
-   "start": "2026-11-08T08:00:00-05:00",
-   "end": "2026-11-08T11:30:00-05:00",
-   "allDay": false,
-   "place": "Farrell Hall",
-   "notes": "",
-   "links": [],
-   "category": "family"
-  },
-  {
-   "id": "mng2fdbv7nl34fvfsbid4d85p0@google.com@20261108",
-   "title": "Brian Moynihan Viewing",
-   "start": "2026-11-08T16:00:00-05:00",
-   "end": "2026-11-08T18:00:00-05:00",
-   "allDay": false,
-   "place": "Fairfax Memorial Funeral Home, 9902 Braddock Rd, Fairfax, VA 22032, USA",
-   "notes": "",
-   "links": [],
-   "category": "council",
-   "signup": {
-    "id": 67169225,
-    "url": "https://www.signupgenius.com/go/20F0944AAAC2FA4FF2-67169225-honor",
-    "kind": "volunteers",
-    "open": 12,
-    "slots": [
-     {
-      "item": "Viewing/Wake Support",
-      "start": "2026-11-08T16:00:00-05:00",
-      "end": "2026-11-08T18:00:00-05:00",
-      "open": 5
-     },
-     {
-      "item": "Rosary",
-      "start": "2026-11-08T17:30:00-05:00",
-      "end": "2026-11-08T18:00:00-05:00",
-      "open": 7
-     }
-    ]
-   }
-  },
   {
    "id": "p5veuc21u868k4o581c17tp3mo@google.com@20261109",
    "title": "Brian Moynihan Mass and burial",
@@ -1362,9 +1320,7 @@
      "open": 7
     }
    ],
-   "events": [
-    "mng2fdbv7nl34fvfsbid4d85p0@google.com@20261108"
-   ]
+   "events": []
   },
   {
    "id": 66987395,
