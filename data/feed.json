@@ -1,22 +1,11 @@
 {
- "generated": "2026-11-09T23:04:10-05:00",
+ "generated": "2026-11-10T07:33:27-05:00",
  "timezone": "America/New_York",
  "source": {
   "calendar": "Council 8600 Google Calendar",
   "signups": "SignUpGenius"
  },
  "events": [
-  {
-   "id": "p5veuc21u868k4o581c17tp3mo@google.com@20261109",
-   "title": "Brian Moynihan Mass and burial",
-   "start": "2026-11-09T11:00:00-05:00",
-   "end": "2026-11-09T13:15:00-05:00",
-   "allDay": false,
-   "place": "st Mary Of Sorrows Historic Chuch zion dr",
-   "notes": "",
-   "links": [],
-   "category": "council"
-  },
   {
    "id": "349mccmg0rl77f380es9rhoqh8@google.com@20261110",
    "title": "Assembly meeting",
