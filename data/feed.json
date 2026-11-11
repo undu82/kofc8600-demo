@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T04:16:42-05:00",
+ "generated": "2026-11-11T13:38:33-05:00",
  "timezone": "America/New_York",
  "source": {
   "calendar": "Council 8600 Google Calendar",
@@ -41,6 +41,17 @@
      }
     ]
    }
+  },
+  {
+   "id": "f827dsm4v9h7nupqfu8oi4hoo4@google.com@20261112",
+   "title": "Christmas shed maintenance",
+   "start": "2026-11-12T10:00:00-05:00",
+   "end": "2026-11-12T13:00:00-05:00",
+   "allDay": false,
+   "place": "Historic St Mary’s Church Parking Lot",
+   "notes": "Fix and paint Christmas supply shed",
+   "links": [],
+   "category": "other"
   },
   {
    "id": "dcn79btlg9flbhl1d0thu1k6ag@google.com@20261113",
