@@ -1,1 +1,1 @@
-2026-11-11, Merge review-fixes: end-to-end review fixes, Get involved and program pages like the home page
+2026-11-11, Merge reimport-safe: re-importing pages on WordPress.com keeps the join card, front page and tabs
