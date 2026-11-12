@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T04:43:58-05:00",
+ "generated": "2026-11-12T13:51:51-05:00",
  "timezone": "America/New_York",
  "source": {
   "calendar": "Council 8600 Google Calendar",
@@ -1250,24 +1250,6 @@
    "events": [
     "qirfnpu1q65s429inl7av0vl08@google.com@20261121"
    ]
-  },
-  {
-   "id": 66987395,
-   "title": "Veterans Day Luncheon - Mission BBQ",
-   "url": "https://www.signupgenius.com/go/20F0944AAAC2FA4FF2-66987395-veterans",
-   "start": "2026-11-11T10:30:00-05:00",
-   "end": "2026-11-11T10:30:00-05:00",
-   "kind": "places",
-   "open": 69,
-   "slots": [
-    {
-     "item": "I will attend",
-     "start": "2026-11-11T10:30:00-05:00",
-     "end": "2026-11-11T12:00:00-05:00",
-     "open": 69
-    }
-   ],
-   "events": []
   }
  ]
 }
