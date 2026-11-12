@@ -1,97 +1,14 @@
 <!doctype html>
 <html lang="en">
+<head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex">
-<link rel="icon" href="icon.png" type="image/png">
-<title>Council 8600 website prototype</title>
-<style>
-	body { margin: 0; background: #f7f7f7; color: #16181d; font: 17px/1.55 Arial, Helvetica, sans-serif; }
-	header { background: #112866; color: #fff; padding: 28px 16px; border-bottom: 4px solid #f7b718; }
-	header h1 { margin: 0 auto; max-width: 680px; font: 700 1.6rem/1.25 Georgia, serif; }
-	header p { margin: 6px auto 0; max-width: 680px; color: #d7e4f1; }
-	main { max-width: 680px; margin: 0 auto; padding: 24px 16px 48px; }
-	section { background: #fff; border-radius: 12px; box-shadow: .5rem .5rem 2.25rem rgba(0,0,0,.1); padding: 20px 22px; margin-bottom: 20px; }
-	h2 { margin: 0 0 10px; color: #112866; font: 700 1.25rem/1.3 Georgia, serif; }
-	.button { display: inline-block; background: #f7b718; color: #0b1c49; font-weight: 700; text-decoration: none; padding: 12px 22px; border-radius: 8px; margin-bottom: 4px; }
-	.button.outline { background: none; border: 2px solid #f7b718; padding: 10px 20px; }
-	small, .muted { color: #5a6373; }
-	table { border-collapse: collapse; width: 100%; font-size: .95rem; }
-	th, td { text-align: left; padding: 8px 6px; border-bottom: 1px solid #d3dae3; vertical-align: top; }
-	code { background: #eaf0f8; padding: 1px 5px; border-radius: 4px; }
-	ol { padding-left: 1.3em; }
-	.share { background: #fff; border-radius: 12px; box-shadow: .5rem .5rem 2.25rem rgba(0,0,0,.1); margin-bottom: 20px; }
-	.share summary { padding: 14px 22px; color: #112866; font-weight: 700; cursor: pointer; }
-	.share summary small { font-weight: 400; }
-	.share .panel { padding: 4px 22px 20px; text-align: center; }
-	.share img { display: block; width: min(340px, 100%); height: auto; margin: 0 auto; }
-	.share .tabs { margin: 0 0 14px; }
-	.share .tabs button { margin: 0 4px 6px; padding: 10px 20px; border: 2px solid #f7b718; border-radius: 8px; background: none; color: #0b1c49; font: 700 1rem Arial, Helvetica, sans-serif; cursor: pointer; }
-	.share .tabs button[aria-pressed="true"] { background: #f7b718; }
-	.share .address { margin: 10px 0 2px; color: #112866; font: 700 2.1rem/1.2 Arial, Helvetica, sans-serif; overflow-wrap: anywhere; }
-	iframe { display: block; width: 100%; height: 2150px; border: 0; }
-	@media (max-width: 700px) { .share { display: none; } iframe { height: 2450px; } }
-</style>
-<header>
-	<h1>Council 8600 website prototype</h1>
-	<p>Knights of Columbus Council 8600, Fairfax Station, Virginia</p>
-</header>
-<main>
-	<details class="share" id="qr">
-		<summary>QR code for meetings <small>(to show on a projector)</small></summary>
-		<div class="panel">
-			<p class="tabs">
-			<button type="button" aria-pressed="true" data-qr="qr.svg" data-hint="Point your phone camera at the code, or type the address.">Try the demo</button>
-			<button type="button" aria-pressed="false" data-qr="qr-feedback.svg" data-hint="Point your phone camera at the code, or type the address and tap Give feedback.">Give feedback</button>
-		</p>
-			<img src="qr.svg" alt="QR code for the address below" width="340" height="340">
-			<p class="address">undu82.github.io/kofc8600-demo</p>
-			<p class="muted hint">Point your phone camera at the code, or type the address.</p>
-		</div>
-	</details>
-	<section>
-		<h2>Try the new website</h2>
-		<p>The button opens your own copy of the proposed site, running in your browser. Look around, then log in and try editing.</p>
-		<p><a class="button" href="master/">Open the demo</a><br><small>Updated 2026-11-11, Merge reimport-safe: re-importing pages on WordPress.com keeps the join card, front page and tabs</small></p>
-
-		<p><a class="button outline" href="#feedback">Give feedback</a></p>
-		<p class="muted">The first load can take up to a minute. Nobody else sees your changes, and reloading the page or opening the link again starts a fresh copy.</p>
-	</section>
-	<section>
-		<h2>Logins</h2>
-		<p>You start logged in as the administrator. To try another role, log out (top right of the dashboard), then log in with one of these.</p>
-		<table>
-			<tr><th>Login</th><th>Password</th><th>Can do</th></tr>
-			<tr><td><code>admin</code></td><td><code>password</code></td><td>Everything (you start as this login)</td></tr>
-			<tr><td><code>volunteer</code></td><td><code>council8600</code></td><td>Edit pages, events and photos</td></tr>
-			<tr><td><code>faith</code></td><td><code>council8600</code></td><td>Program owner: update only the Faith page and their own events</td></tr>
-			<tr><td><code>cor</code></td><td><code>council8600</code></td><td>Program owner: update only the COR Mass page and their own events</td></tr>
-			<tr><td><code>brother</code></td><td><code>council8600</code></td><td>Brother: read the members-only pages (Members tab)</td></tr>
-		</table>
-		<p class="muted">On the live site, everyone signs in through WordPress.com instead (Google, Apple or a link by email, then a code by text message). The demo cannot reach WordPress.com, so it keeps these test logins.</p>
-		<p class="muted">Officers (<code>admin</code> and <code>volunteer</code>) approve requests for the members&rsquo; area under <strong>Brothers</strong> in the dashboard. One request, from Tom Sample, is already waiting.</p>
-	</section>
-	<section>
-		<h2>Two things to try as <code>volunteer</code></h2>
-		<ol>
-			<li><strong>Add an event.</strong> Dashboard &rarr; Events &rarr; Add event. Type a title, fill in &ldquo;When and where&rdquo; on the right, then press Publish. It appears on the home page and the Events page.</li>
-			<li><strong>Swap the Knight of the Month photo.</strong> Pages &rarr; Recognition &rarr; click the photo &rarr; Replace &rarr; pick a photo &rarr; change the name &rarr; Save.</li>
-		</ol>
-	</section>
-	<section id="feedback">
-		<h2>Tell us what you think</h2>
-		<p>A few quick questions, all optional. It takes about two minutes.</p>
-		<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScbhH-d1DESqgLgXVOcxEXf4_qSDnS7KwzFQzfFXNHRs2zwzA/viewform?embedded=true" title="Feedback form">Loading&hellip;</iframe>
-		<p class="muted">Form not showing? <a href="https://docs.google.com/forms/d/e/1FAIpQLScbhH-d1DESqgLgXVOcxEXf4_qSDnS7KwzFQzfFXNHRs2zwzA/viewform">Open it on its own page</a>.</p>
-	</section>
-	<p class="muted">Prototype only: names, dates and phone numbers are placeholders, and forms send nothing. The official site is <a href="https://www.kofc8600.org">www.kofc8600.org</a>.</p>
-</main>
-<script>
-	if (location.hash === '#qr') document.getElementById('qr').open = true;
-	document.querySelectorAll('.share .tabs button').forEach((tab, _, tabs) => tab.addEventListener('click', () => {
-		tabs.forEach(t => t.setAttribute('aria-pressed', t === tab));
-		document.querySelector('.share img').src = tab.dataset.qr;
-		document.querySelector('.share .hint').textContent = tab.dataset.hint;
-	}));
-</script>
+<meta http-equiv="refresh" content="0; url=https://kofc8600.wordpress.com/">
+<link rel="canonical" href="https://kofc8600.wordpress.com/">
+<title>Knights of Columbus Council 8600</title>
+</head>
+<body style="font:18px/1.5 Arial,sans-serif;margin:2rem">
+<p>The Council 8600 website is now at <a href="https://kofc8600.wordpress.com/">kofc8600.wordpress.com</a>.</p>
+</body>
 </html>

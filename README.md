@@ -1,9 +1,5 @@
-# Council 8600 website prototype: browser demo
+# Council 8600: files for the live site
 
-Open the demo: **https://undu82.github.io/kofc8600-demo/**
+The browser demo that lived here was retired on 2026-11-11. The Council's site is https://kofc8600.wordpress.com/.
 
-This repo only hosts the published files: a WordPress Playground blueprint plus the theme, plugin and sample-content zips it loads. Each version lives in its own folder, and `index.html` links them.
-
-The files are generated and pushed by the "Publish browser demo" workflow in the private source repo, so don't edit them here. Changes made here are overwritten on the next publish.
-
-Prototype only: names, dates and phone numbers are placeholders, and forms send nothing. The official site is https://www.kofc8600.org.
+This repo still serves `data/feed.json` (the hourly events feed the site reads) and `media/` (the photos its import file downloads). Both are published from undu82/kofc8600-wordpress.
