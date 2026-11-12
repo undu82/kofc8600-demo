@@ -1,47 +1,11 @@
 {
- "generated": "2026-11-11T20:29:01-05:00",
+ "generated": "2026-11-12T04:43:58-05:00",
  "timezone": "America/New_York",
  "source": {
   "calendar": "Council 8600 Google Calendar",
   "signups": "SignUpGenius"
  },
  "events": [
-  {
-   "id": "CSVConvert875e552fb7cbc023b6f57ad96902bcc2@20261111",
-   "title": "Veterans Day",
-   "start": "2026-11-11T09:00:00-05:00",
-   "end": "2026-11-11T11:00:00-05:00",
-   "allDay": false,
-   "place": "Historic Church",
-   "notes": "Distribute Flags at Cemetery",
-   "links": [],
-   "category": "community"
-  },
-  {
-   "id": "muvd1fa0jain8qpe8vhj74g7ig@google.com@20261111",
-   "title": "Mission Barbecue Lunch",
-   "start": "2026-11-11T12:00:00-05:00",
-   "end": "2026-11-11T15:00:00-05:00",
-   "allDay": false,
-   "place": "MISSION BBQ, 13067-J Lee Jackson Mem Hwy, Fairfax, VA 22033, USA",
-   "notes": "",
-   "links": [],
-   "category": "community",
-   "signup": {
-    "id": 66987395,
-    "url": "https://www.signupgenius.com/go/20F0944AAAC2FA4FF2-66987395-veterans",
-    "kind": "places",
-    "open": 69,
-    "slots": [
-     {
-      "item": "I will attend",
-      "start": "2026-11-11T10:30:00-05:00",
-      "end": "2026-11-11T12:00:00-05:00",
-      "open": 69
-     }
-    ]
-   }
-  },
   {
    "id": "f827dsm4v9h7nupqfu8oi4hoo4@google.com@20261112",
    "title": "Christmas shed maintenance",
@@ -1303,9 +1267,7 @@
      "open": 69
     }
    ],
-   "events": [
-    "muvd1fa0jain8qpe8vhj74g7ig@google.com@20261111"
-   ]
+   "events": []
   }
  ]
 }
