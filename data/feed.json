@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T13:51:51-05:00",
+ "generated": "2026-11-12T19:13:41-05:00",
  "timezone": "America/New_York",
  "source": {
   "calendar": "Council 8600 Google Calendar",
@@ -168,7 +168,7 @@
     "open": 12,
     "slots": [
      {
-      "item": "Color Guard - Memorial Chalice Mass",
+      "item": "Honor Guard - Memorial Chalice Mass",
       "start": "2026-11-21T11:30:00-05:00",
       "end": "2026-11-21T12:30:00-05:00",
       "open": 12
@@ -1241,7 +1241,7 @@
    "open": 12,
    "slots": [
     {
-     "item": "Color Guard - Memorial Chalice Mass",
+     "item": "Honor Guard - Memorial Chalice Mass",
      "start": "2026-11-21T11:30:00-05:00",
      "end": "2026-11-21T12:30:00-05:00",
      "open": 12
