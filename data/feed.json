@@ -1,58 +1,11 @@
 {
- "generated": "2026-11-14T02:33:41-05:00",
+ "generated": "2026-11-15T04:15:15-05:00",
  "timezone": "America/New_York",
  "source": {
   "calendar": "Council 8600 Google Calendar",
   "signups": "SignUpGenius"
  },
  "events": [
-  {
-   "id": "CSVConvert3d543f17751cbb0d4df15df0ef0be0ba@20261114",
-   "title": "That Man is You",
-   "start": "2026-11-14T07:00:00-05:00",
-   "end": "2026-11-14T08:30:00-05:00",
-   "allDay": false,
-   "place": "St. Joseph's Hall",
-   "notes": "",
-   "links": [],
-   "category": "faith"
-  },
-  {
-   "id": "7rmdor9kaob0lmcv4hl3rp0np0_R20241109T123000@google.com@20261114",
-   "title": "Men's Ministry",
-   "start": "2026-11-14T07:30:00-05:00",
-   "end": "2026-11-14T09:00:00-05:00",
-   "allDay": false,
-   "place": "Old St. Mary of Sorrows Hall",
-   "notes": "The St. Mary of Sorrows Men’s Ministry provides fraternal support to help Catholic men rise to the unique challenges that fathers, husbands and community members face in the modern world. Join other Catholic men in reading and reflecting on Sunday scriptures, and discussing how it relates to our lives, and how bringing Christ into our lives helps us become better Catholic men, husbands, dads, fami",
-   "links": [],
-   "category": "faith"
-  },
-  {
-   "id": "1rf3jj14k5v8kkou27ktm2s7ck@google.com@20261114",
-   "title": "KOVAR",
-   "start": "2026-11-14T18:25:00-05:00",
-   "end": "2026-11-14T18:50:00-05:00",
-   "allDay": false,
-   "place": "St. Mary of Sorrows Catholic Church, 10500 Zion Dr Church, Fairfax, VA 22032, USA",
-   "notes": "KOVAR Collection outside each Mass this weekend. Tootsie Rolls for everyone.",
-   "links": [],
-   "category": "community",
-   "signup": {
-    "id": 67116342,
-    "url": "https://www.signupgenius.com/go/20F0944AAAC2FA4FF2-67116342-fall",
-    "kind": "volunteers",
-    "open": 5,
-    "slots": [
-     {
-      "item": "Church",
-      "start": "2026-11-14T18:00:00-05:00",
-      "end": "2026-11-14T18:20:00-05:00",
-      "open": 5
-     }
-    ]
-   }
-  },
   {
    "id": "9apn0om32obvo9dkf5ugnn216g@google.com@20261115",
    "title": "KOVAR",
@@ -1260,7 +1213,6 @@
     }
    ],
    "events": [
-    "1rf3jj14k5v8kkou27ktm2s7ck@google.com@20261114",
     "9apn0om32obvo9dkf5ugnn216g@google.com@20261115"
    ]
   },
