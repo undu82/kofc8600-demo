@@ -1,54 +1,11 @@
 {
- "generated": "2026-11-15T17:45:49-05:00",
+ "generated": "2026-11-16T06:01:33-05:00",
  "timezone": "America/New_York",
  "source": {
   "calendar": "Council 8600 Google Calendar",
   "signups": "SignUpGenius"
  },
  "events": [
-  {
-   "id": "9apn0om32obvo9dkf5ugnn216g@google.com@20261115",
-   "title": "KOVAR",
-   "start": "2026-11-15T00:00:00-05:00",
-   "end": "2026-11-15T00:00:00-05:00",
-   "allDay": true,
-   "place": "St. Mary of Sorrows Catholic Church, 10500 Zion Dr Church, Fairfax, VA 22032, USA",
-   "notes": "KOVAR collection after each Mass this weekend. Tootsie rolls for everyone.",
-   "links": [],
-   "category": "community",
-   "signup": {
-    "id": 67116342,
-    "url": "https://www.signupgenius.com/go/20F0944AAAC2FA4FF2-67116342-fall",
-    "kind": "volunteers",
-    "open": 18,
-    "slots": [
-     {
-      "item": "Church",
-      "start": "2026-11-15T08:30:00-05:00",
-      "end": "2026-11-15T08:50:00-05:00",
-      "open": 3
-     },
-     {
-      "item": "Church",
-      "start": "2026-11-15T10:30:00-05:00",
-      "end": "2026-11-15T10:50:00-05:00",
-      "open": 5
-     },
-     {
-      "item": "Church",
-      "start": "2026-11-15T12:30:00-05:00",
-      "end": "2026-11-15T12:50:00-05:00",
-      "open": 5
-     },
-     {
-      "item": "Church",
-      "start": "2026-11-15T18:00:00-05:00",
-      "end": "2026-11-15T18:20:00-05:00",
-      "open": 5
-     }
-    ]
-   }
-  },
   {
    "id": "CSVConvertda1d6f0d43609cad779c97ebcf27fcc5@20261117",
    "title": "Council Combined Meeting",
@@ -1212,9 +1169,7 @@
      "open": 5
     }
    ],
-   "events": [
-    "9apn0om32obvo9dkf5ugnn216g@google.com@20261115"
-   ]
+   "events": []
   },
   {
    "id": 67116221,
