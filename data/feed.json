@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T15:57:52-05:00",
+ "generated": "2026-11-16T22:45:04-05:00",
  "timezone": "America/New_York",
  "source": {
   "calendar": "Council 8600 Google Calendar",
@@ -64,13 +64,13 @@
     "id": 67638392,
     "url": "https://www.signupgenius.com/go/20F0944AAAC2FA4FF2-67638392-reception",
     "kind": "places",
-    "open": 75,
+    "open": 67,
     "slots": [
      {
       "item": "I will attend",
       "start": "2026-11-21T12:45:00-05:00",
       "end": "2026-11-21T14:30:00-05:00",
-      "open": 75
+      "open": 67
      }
     ]
    }
@@ -156,6 +156,17 @@
    "notes": "Hosted by Bob and Barbara Mahiques’s. An hour of prayer song and meditation.\nBeverages provided, please bring your own cookies to share.",
    "links": [],
    "category": "other"
+  },
+  {
+   "id": "elh2odt07kddnic076boiub32g@google.com@20261130",
+   "title": "COR planning",
+   "start": "2026-11-30T19:30:00-05:00",
+   "end": "2026-11-30T20:30:00-05:00",
+   "allDay": false,
+   "place": "",
+   "notes": "",
+   "links": [],
+   "category": "faith"
   },
   {
    "id": "CSVConvertc31734e9b4b8c9866705eed04f349384@20261201",
@@ -1141,61 +1152,19 @@
  ],
  "signups": [
   {
-   "id": 67116342,
-   "title": "Fall 2026 KOVAR Drive",
-   "url": "https://www.signupgenius.com/go/20F0944AAAC2FA4FF2-67116342-fall",
-   "start": "2026-11-14T18:00:00-05:00",
-   "end": "2026-11-15T18:00:00-05:00",
-   "kind": "volunteers",
-   "open": 23,
-   "slots": [
-    {
-     "item": "Church",
-     "start": "2026-11-14T18:00:00-05:00",
-     "end": "2026-11-14T18:20:00-05:00",
-     "open": 5
-    },
-    {
-     "item": "Church",
-     "start": "2026-11-15T08:30:00-05:00",
-     "end": "2026-11-15T08:50:00-05:00",
-     "open": 3
-    },
-    {
-     "item": "Church",
-     "start": "2026-11-15T10:30:00-05:00",
-     "end": "2026-11-15T10:50:00-05:00",
-     "open": 5
-    },
-    {
-     "item": "Church",
-     "start": "2026-11-15T12:30:00-05:00",
-     "end": "2026-11-15T12:50:00-05:00",
-     "open": 5
-    },
-    {
-     "item": "Church",
-     "start": "2026-11-15T18:00:00-05:00",
-     "end": "2026-11-15T18:20:00-05:00",
-     "open": 5
-    }
-   ],
-   "events": []
-  },
-  {
    "id": 67116221,
    "title": "Honor Guard for Memorial Chalice Ceremony 2026",
    "url": "https://www.signupgenius.com/go/20F0944AAAC2FA4FF2-67116221-honor",
    "start": "2026-11-21T11:30:00-05:00",
    "end": "2026-11-21T11:30:00-05:00",
    "kind": "volunteers",
-   "open": 12,
+   "open": 11,
    "slots": [
     {
      "item": "Honor Guard - Memorial Chalice Mass",
      "start": "2026-11-21T11:30:00-05:00",
      "end": "2026-11-21T12:30:00-05:00",
-     "open": 12
+     "open": 11
     }
    ],
    "events": [
@@ -1209,13 +1178,13 @@
    "start": "2026-11-21T12:45:00-05:00",
    "end": "2026-11-21T12:45:00-05:00",
    "kind": "places",
-   "open": 75,
+   "open": 67,
    "slots": [
     {
      "item": "I will attend",
      "start": "2026-11-21T12:45:00-05:00",
      "end": "2026-11-21T14:30:00-05:00",
-     "open": 75
+     "open": 67
     }
    ],
    "events": [
