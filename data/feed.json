@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T22:45:04-05:00",
+ "generated": "2026-11-17T08:12:51-05:00",
  "timezone": "America/New_York",
  "source": {
   "calendar": "Council 8600 Google Calendar",
@@ -1148,6 +1148,17 @@
    "notes": "The St. Mary of Sorrows Men’s Ministry provides fraternal support to help Catholic men rise to the unique challenges that fathers, husbands and community members face in the modern world. Join other Catholic men in reading and reflecting on Sunday scriptures, and discussing how it relates to our lives, and how bringing Christ into our lives helps us become better Catholic men, husbands, dads, fami",
    "links": [],
    "category": "faith"
+  },
+  {
+   "id": "CSVConverta38486d6db460334c9fb69bb0c1a90dd@20270316",
+   "title": "Council Combined Meeting",
+   "start": "2027-03-16T19:00:00-04:00",
+   "end": "2027-03-16T21:00:00-04:00",
+   "allDay": false,
+   "place": "Old Saint Mary's Hall",
+   "notes": "",
+   "links": [],
+   "category": "council"
   }
  ],
  "signups": [
