@@ -1,22 +1,11 @@
 {
- "generated": "2026-11-17T23:12:24-05:00",
+ "generated": "2026-11-18T14:23:09-05:00",
  "timezone": "America/New_York",
  "source": {
   "calendar": "Council 8600 Google Calendar",
   "signups": "SignUpGenius"
  },
  "events": [
-  {
-   "id": "CSVConvertda1d6f0d43609cad779c97ebcf27fcc5@20261117",
-   "title": "Council Combined Meeting",
-   "start": "2026-11-17T19:00:00-05:00",
-   "end": "2026-11-17T21:00:00-05:00",
-   "allDay": false,
-   "place": "Old Saint Mary's Hall",
-   "notes": "",
-   "links": [],
-   "category": "council"
-  },
   {
    "id": "CSVConvert245af8c803e2ce8fff6b89f95449f3fd@20261120",
    "title": "Sacred Heart of Jesus Holy Hr",
@@ -1169,13 +1158,13 @@
    "start": "2026-11-21T11:30:00-05:00",
    "end": "2026-11-21T11:30:00-05:00",
    "kind": "volunteers",
-   "open": 11,
+   "open": 10,
    "slots": [
     {
      "item": "Honor Guard - Memorial Chalice Mass",
      "start": "2026-11-21T11:30:00-05:00",
      "end": "2026-11-21T12:30:00-05:00",
-     "open": 11
+     "open": 10
     }
    ],
    "events": [
