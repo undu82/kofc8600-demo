@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T14:23:09-05:00",
+ "generated": "2026-11-18T20:51:21-05:00",
  "timezone": "America/New_York",
  "source": {
   "calendar": "Council 8600 Google Calendar",
@@ -53,13 +53,13 @@
     "id": 67638392,
     "url": "https://www.signupgenius.com/go/20F0944AAAC2FA4FF2-67638392-reception",
     "kind": "places",
-    "open": 71,
+    "open": 70,
     "slots": [
      {
       "item": "I will attend",
       "start": "2026-11-21T12:45:00-05:00",
       "end": "2026-11-21T14:30:00-05:00",
-      "open": 71
+      "open": 70
      }
     ]
    }
@@ -1158,13 +1158,13 @@
    "start": "2026-11-21T11:30:00-05:00",
    "end": "2026-11-21T11:30:00-05:00",
    "kind": "volunteers",
-   "open": 10,
+   "open": 7,
    "slots": [
     {
      "item": "Honor Guard - Memorial Chalice Mass",
      "start": "2026-11-21T11:30:00-05:00",
      "end": "2026-11-21T12:30:00-05:00",
-     "open": 10
+     "open": 7
     }
    ],
    "events": [
@@ -1178,13 +1178,13 @@
    "start": "2026-11-21T12:45:00-05:00",
    "end": "2026-11-21T12:45:00-05:00",
    "kind": "places",
-   "open": 71,
+   "open": 70,
    "slots": [
     {
      "item": "I will attend",
      "start": "2026-11-21T12:45:00-05:00",
      "end": "2026-11-21T14:30:00-05:00",
-     "open": 71
+     "open": 70
     }
    ],
    "events": [
