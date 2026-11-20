@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T05:12:21-05:00",
+ "generated": "2026-11-20T04:57:04-05:00",
  "timezone": "America/New_York",
  "source": {
   "calendar": "Council 8600 Google Calendar",
@@ -1148,6 +1148,28 @@
    "notes": "",
    "links": [],
    "category": "council"
+  },
+  {
+   "id": "CSVConvert8a270f43c931eed79c8b28e6726e3d1f@20270319",
+   "title": "Lenten Fish Fry #6",
+   "start": "2027-03-19T18:00:00-04:00",
+   "end": "2027-03-19T20:00:00-04:00",
+   "allDay": false,
+   "place": "Farrell Hall",
+   "notes": "",
+   "links": [],
+   "category": "family"
+  },
+  {
+   "id": "CSVConvertd8f5df1f2a548dbf27bae9567c53619b@20270319",
+   "title": "Sacred Heart of Jesus Holy Hr",
+   "start": "2027-03-19T19:00:00-04:00",
+   "end": "2027-03-19T20:00:00-04:00",
+   "allDay": false,
+   "place": "Church",
+   "notes": "All Family Members Welcome",
+   "links": [],
+   "category": "faith"
   }
  ],
  "signups": [
