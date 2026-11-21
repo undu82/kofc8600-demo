@@ -1,22 +1,11 @@
 {
- "generated": "2026-11-20T19:47:05-05:00",
+ "generated": "2026-11-21T03:14:22-05:00",
  "timezone": "America/New_York",
  "source": {
   "calendar": "Council 8600 Google Calendar",
   "signups": "SignUpGenius"
  },
  "events": [
-  {
-   "id": "CSVConvert245af8c803e2ce8fff6b89f95449f3fd@20261120",
-   "title": "Sacred Heart of Jesus Holy Hr",
-   "start": "2026-11-20T19:00:00-05:00",
-   "end": "2026-11-20T20:00:00-05:00",
-   "allDay": false,
-   "place": "Church",
-   "notes": "All Family Members Welcome",
-   "links": [],
-   "category": "faith"
-  },
   {
    "id": "CSVConvert6b2ed93ba1b4ae507f09c1b64d5e82c0@20261121",
    "title": "That Man is You",
@@ -53,13 +42,13 @@
     "id": 67638392,
     "url": "https://www.signupgenius.com/go/20F0944AAAC2FA4FF2-67638392-reception",
     "kind": "places",
-    "open": 60,
+    "open": 59,
     "slots": [
      {
       "item": "I will attend",
       "start": "2026-11-21T12:45:00-05:00",
       "end": "2026-11-21T14:30:00-05:00",
-      "open": 60
+      "open": 59
      }
     ]
    }
@@ -1170,6 +1159,39 @@
    "notes": "All Family Members Welcome",
    "links": [],
    "category": "faith"
+  },
+  {
+   "id": "CSVConvert653241e31db2ca55ee73170178460d58@20270320",
+   "title": "State Sponsored Event",
+   "start": "2027-03-20T00:00:00-04:00",
+   "end": "2027-03-20T00:00:00-04:00",
+   "allDay": true,
+   "place": "Offsite",
+   "notes": "State Free Throw Contest - Richmond",
+   "links": [],
+   "category": "other"
+  },
+  {
+   "id": "CSVConvert9e0ee479c14dade5a914c926a8482f5c@20270320",
+   "title": "That Man is You",
+   "start": "2027-03-20T07:00:00-04:00",
+   "end": "2027-03-20T08:30:00-04:00",
+   "allDay": false,
+   "place": "St. Joseph's Hall",
+   "notes": "",
+   "links": [],
+   "category": "faith"
+  },
+  {
+   "id": "CSVConvertc93d672583864d33de6e82963bb265a5@20270320",
+   "title": "BINGO",
+   "start": "2027-03-20T18:30:00-04:00",
+   "end": "2027-03-20T20:30:00-04:00",
+   "allDay": false,
+   "place": "Farrell Hall",
+   "notes": "",
+   "links": [],
+   "category": "family"
   }
  ],
  "signups": [
@@ -1180,13 +1202,13 @@
    "start": "2026-11-21T11:30:00-05:00",
    "end": "2026-11-21T11:30:00-05:00",
    "kind": "volunteers",
-   "open": 4,
+   "open": 3,
    "slots": [
     {
      "item": "Honor Guard - Memorial Chalice Mass",
      "start": "2026-11-21T11:30:00-05:00",
      "end": "2026-11-21T12:30:00-05:00",
-     "open": 4
+     "open": 3
     }
    ],
    "events": [
@@ -1200,13 +1222,13 @@
    "start": "2026-11-21T12:45:00-05:00",
    "end": "2026-11-21T12:45:00-05:00",
    "kind": "places",
-   "open": 60,
+   "open": 59,
    "slots": [
     {
      "item": "I will attend",
      "start": "2026-11-21T12:45:00-05:00",
      "end": "2026-11-21T14:30:00-05:00",
-     "open": 60
+     "open": 59
     }
    ],
    "events": [
