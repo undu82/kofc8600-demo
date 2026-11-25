@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T19:13:45-05:00",
+ "generated": "2026-11-24T23:10:48-05:00",
  "timezone": "America/New_York",
  "source": {
   "calendar": "Council 8600 Google Calendar",
@@ -158,31 +158,6 @@
    "notes": "",
    "links": [],
    "category": "faith"
-  },
-  {
-   "id": "CSVConvert37a40b46dc1c1f9014693b0afeaf031c@20261205",
-   "title": "Route 123 Cleanup",
-   "start": "2026-12-05T08:00:00-05:00",
-   "end": "2026-12-05T10:00:00-05:00",
-   "allDay": false,
-   "place": "Old Saint Mary's Hall",
-   "notes": "",
-   "links": [],
-   "category": "community",
-   "signup": {
-    "id": 67804298,
-    "url": "https://www.signupgenius.com/go/20F0944AAAC2FA4FF2-67804298-route",
-    "kind": "volunteers",
-    "open": 11,
-    "slots": [
-     {
-      "item": "Volunteer",
-      "start": "2026-12-05T08:00:00-05:00",
-      "end": "2026-12-05T10:00:00-05:00",
-      "open": 11
-     }
-    ]
-   }
   },
   {
    "id": "CSVConvert0c94323c1b0558089edd50e17310134c@20261205",
@@ -1150,26 +1125,5 @@
    "category": "family"
   }
  ],
- "signups": [
-  {
-   "id": 67804298,
-   "title": "Route 123 Clean Up - Dec 5 2026",
-   "url": "https://www.signupgenius.com/go/20F0944AAAC2FA4FF2-67804298-route",
-   "start": "2026-12-05T08:00:00-05:00",
-   "end": "2026-12-05T08:00:00-05:00",
-   "kind": "volunteers",
-   "open": 11,
-   "slots": [
-    {
-     "item": "Volunteer",
-     "start": "2026-12-05T08:00:00-05:00",
-     "end": "2026-12-05T10:00:00-05:00",
-     "open": 11
-    }
-   ],
-   "events": [
-    "CSVConvert37a40b46dc1c1f9014693b0afeaf031c@20261205"
-   ]
-  }
- ]
+ "signups": []
 }
