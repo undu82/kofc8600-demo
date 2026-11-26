@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T08:48:39-05:00",
+ "generated": "2026-11-26T17:56:26-05:00",
  "timezone": "America/New_York",
  "source": {
   "calendar": "Council 8600 Google Calendar",
@@ -202,6 +202,17 @@
    "notes": "",
    "links": [],
    "category": "council"
+  },
+  {
+   "id": "ekng76v799lgnob4mtsia0kd5k@google.com@20261211",
+   "title": "Farrell reception for Deaon Jeff",
+   "start": "2026-12-11T10:00:00-05:00",
+   "end": "2026-12-11T11:00:00-05:00",
+   "allDay": false,
+   "place": "Farrell Hall",
+   "notes": "",
+   "links": [],
+   "category": "other"
   },
   {
    "id": "CSVConvert7b5a2fa215fca9bbde7c3755460bf6ec@20261212",
@@ -560,6 +571,17 @@
    "category": "faith"
   },
   {
+   "id": "jlqlg321r39jl332muang7euoc@google.com@20270123",
+   "title": "Fourth Degree Exemplification",
+   "start": "2027-01-23T12:00:00-05:00",
+   "end": "2027-01-23T13:00:00-05:00",
+   "allDay": false,
+   "place": "St Thomas More Catholic Church, 3015 Roundelay Rd, Lynchburg, VA 24502, USA",
+   "notes": "",
+   "links": [],
+   "category": "council"
+  },
+  {
    "id": "CSVConvertd6071b99c778182e462b7017efe45359@20270129",
    "title": "State Sponsored Event",
    "start": "2027-01-29T00:00:00-05:00",
@@ -827,6 +849,17 @@
    "notes": "",
    "links": [],
    "category": "faith"
+  },
+  {
+   "id": "okl4fhg61k41s5it82p5eq46o8@google.com@20270220",
+   "title": "Fourth Degree Exemplification",
+   "start": "2027-02-20T12:00:00-05:00",
+   "end": "2027-02-20T13:00:00-05:00",
+   "allDay": false,
+   "place": "Saint Bede Catholic Church Drive, St Bede Catholic Church Dr, Virginia 23188, USA",
+   "notes": "",
+   "links": [],
+   "category": "council"
   },
   {
    "id": "CSVConvertfd6be5ee287da2895f164f800628ff0c@20270220",
