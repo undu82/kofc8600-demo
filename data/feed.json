@@ -1,22 +1,11 @@
 {
- "generated": "2026-11-26T17:56:26-05:00",
+ "generated": "2026-11-27T14:54:32-05:00",
  "timezone": "America/New_York",
  "source": {
   "calendar": "Council 8600 Google Calendar",
   "signups": "SignUpGenius"
  },
  "events": [
-  {
-   "id": "CSVConvert693bc18f836ca19b3ae1414b47293508@20261126",
-   "title": "Thanksgiving",
-   "start": "2026-11-26T00:00:00-05:00",
-   "end": "2026-11-26T00:00:00-05:00",
-   "allDay": true,
-   "place": "",
-   "notes": "",
-   "links": [],
-   "category": "holiday"
-  },
   {
    "id": "CSVConvert9480433200893be40152db52a1f34930@20261127",
    "title": "Christmas Tree Delivery",
