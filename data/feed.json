@@ -1,33 +1,11 @@
 {
- "generated": "2026-11-27T14:54:32-05:00",
+ "generated": "2026-11-28T06:37:41-05:00",
  "timezone": "America/New_York",
  "source": {
   "calendar": "Council 8600 Google Calendar",
   "signups": "SignUpGenius"
  },
  "events": [
-  {
-   "id": "CSVConvert9480433200893be40152db52a1f34930@20261127",
-   "title": "Christmas Tree Delivery",
-   "start": "2026-11-27T08:00:00-05:00",
-   "end": "2026-11-27T11:00:00-05:00",
-   "allDay": false,
-   "place": "Historic Church",
-   "notes": "",
-   "links": [],
-   "category": "community"
-  },
-  {
-   "id": "CSVConvert1a0367150f017edf2e40e6ae5920afc0@20261127",
-   "title": "Christmas Tree Sales Begin",
-   "start": "2026-11-27T12:00:00-05:00",
-   "end": "2026-11-27T21:00:00-05:00",
-   "allDay": false,
-   "place": "Historic Church",
-   "notes": "",
-   "links": [],
-   "category": "community"
-  },
   {
    "id": "CSVConvertd9ab30442366250f8fdc59b64602d062@20261128",
    "title": "Diaper Collection",
@@ -1151,6 +1129,44 @@
    "title": "Holy Thursday",
    "start": "2027-03-25T00:00:00-04:00",
    "end": "2027-03-25T00:00:00-04:00",
+   "allDay": true,
+   "place": "",
+   "notes": "",
+   "links": [],
+   "category": "other"
+  },
+  {
+   "id": "CSVConvertef5d6a30d42b36061b87610ded8d1234@20270327",
+   "title": "Diaper Collection",
+   "start": "2027-03-27T00:00:00-04:00",
+   "end": "2027-03-27T00:00:00-04:00",
+   "allDay": true,
+   "place": "Parish Center",
+   "notes": "",
+   "links": [],
+   "category": "life"
+  },
+  {
+   "id": "2jducqh83g80t27fs52oo3l2is_R20241228@google.com@20270327",
+   "title": "Diaper, Wipes & Formula Collection",
+   "start": "2027-03-27T00:00:00-04:00",
+   "end": "2027-03-28T00:00:00-04:00",
+   "allDay": true,
+   "place": "SMOS Parish Center, 5222 Sideburn Rd, Fairfax, VA 22032, USA",
+   "notes": "Council 8600 sponsors a monthly diapers, wipes, and formula collection to support the St Mary's food closet and MARiAH Center.\nThe MaRiH Center is Here to Help - The MaRiH Center offers support to pregnant women and families with young children.\nOur efforts support the Knight of Columbus initiative, Aid and Assistance After Pregnancy (ASAP) which helps mothers and babies by supporting pregnancy re",
+   "links": [
+    {
+     "text": "The MaRiH Center is Here to Help - The MaRiH Center",
+     "url": "https://marih.org/"
+    }
+   ],
+   "category": "life"
+  },
+  {
+   "id": "CSVConvertd059e098310382a5679456ab44c0b3c8@20270327",
+   "title": "Holy Saturday",
+   "start": "2027-03-27T00:00:00-04:00",
+   "end": "2027-03-27T00:00:00-04:00",
    "allDay": true,
    "place": "",
    "notes": "",
